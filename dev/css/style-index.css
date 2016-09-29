@@ -507,11 +507,21 @@ html[data-rem="320"] {
 /**----------------------------------------------
  >>> Table of Contents:
  ------------------------------------------------
+ 0.0 global
  1.0 main-container
  2.0 page-heading
  3.0 navigation
  ------------------------------------------------
 */
+
+/**
+--  0.0 global
+*/
+
+.header-color {
+  background: #ffffff;
+  color: #646464;
+}
 
 /**
 --  1.0 main-container
@@ -554,3 +564,113 @@ html[data-rem="320"] {
 /**
 --  3.0 navigation
 */
+
+#header.fixed {
+  position: fixed !important;
+}
+
+#header.light {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+#header {
+  position: absolute;
+  z-index: 1000;
+  transform: translate3D(0px, 0px, 0px);
+  min-width: 320px;
+  width: 100%;
+  height: auto;
+  top: 0;
+  margin: 0 auto;
+  text-align: center;
+  background: none;
+  -webkit-transform: translateZ(0);
+  translation: transform 0.5s ease, opacity 0.5s ease;
+}
+
+#header-overlay {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease-in-out;
+}
+
+.header-menu #header-container {
+  position: relative;
+  margin: 0 auto;
+}
+
+#header-container {
+  position: relative;
+  margin: 0 auto;
+  height: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+#web-logo {
+  position: relative;
+  display: inline-block;
+  z-index: 9999;
+  height: 100%;
+  float: left;
+}
+
+.website-logo img {
+  position: absolute;
+  display: block;
+  max-width: none;
+  min-height: 25px;
+  max-height: 35%;
+  width: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#web-logo a {
+  transform: none;
+}
+
+#top-nav {
+  display: block;
+  background: transparent;
+  list-style: none;
+  height: 100%;
+  position: relative;
+}
+
+#top-nav .top-menu {
+  position: absolute;
+  display: block;
+  height: auto;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  bottom: 0;
+  margin-top: -15px;
+  text-align: right;
+}
+
+#top-nav ul {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+#top-nav li {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+  line-height: 30px;
+  margin: 0;
+  padding: 0;
+  transform: none;
+}
