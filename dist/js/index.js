@@ -1,0 +1,1 @@
+var totalHeight=document.documentElement.clientHeight;$(".page-heading").css("height",totalHeight);
