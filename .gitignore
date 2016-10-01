@@ -50,3 +50,7 @@ fabric.properties
 #vim plugin
 .idea
 
+css/
+html/
+img/
+js/
