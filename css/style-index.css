@@ -1,0 +1,212 @@
+/**----------------------------------------------
+ >>> Table of Contents:
+ ------------------------------------------------
+ 0.0 global
+ 1.0 main-container
+ 2.0 page-heading
+ 3.0 navigation
+ 4.0 page-story
+ ------------------------------------------------
+*/
+/**
+--  0.0 global
+*/
+
+.header-color {
+  background: #ffffff;
+  color: #646464;
+}
+
+/**
+--  1.0 main-container
+*/
+.main-container {
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  overflow: auto;
+  position: absolute;
+}
+
+
+/**
+--  2.0 page-heading
+*/
+
+.page-heading {
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.page-heading h3 {
+  color: #ffffff;
+  font-size: 7em;
+  font-weight: bold;
+  font-family: "Avenir", sans-serif;
+  padding-top: 20%;
+  z-index: 1 !important;
+}
+
+/**
+--  3.0 navigation
+*/
+
+
+/**
+--  4.0 page-story
+*/
+
+.page-story {
+  padding-bottom: 30px;
+}
+
+.page-story > article {
+  padding: 32px 64px;
+  background-color: white;
+  box-shadow: 0px 4px 6px rgba(75, 75, 75, 0.5);
+}
+
+article {
+  margin: 40px auto;
+}
+article > header.page-header {
+  text-align: center;
+  font-family: 'Computer Modern Bright Semibold', sans-serif;
+  letter-spacing: -1px;
+  font-style: italic;
+  border: none;
+}
+.page-header {
+  margin: 30px 0;
+}
+
+article h2,
+article h3,
+article h4,
+article h5 {
+  font-family: 'Computer Modern Bright Semibold', sans-serif;
+  font-weight: 500;
+}
+
+
+article[id="achievement"] h2,
+article[id="achievement"] h3,
+article[id="achievement"] h4,
+article[id="achievement"] h5 {
+  color: #604f87;
+}
+article[id="project"] h2,
+article[id="project"] h3,
+article[id="project"] h4,
+article[id="project"] h5 {
+  color: #9c8e11;
+}
+article[id='modeling'] h2,
+article[id='modeling'] h3,
+article[id='modeling'] h4,
+article[id='modeling'] h5 {
+  color: #278f45;
+}
+article[id='practices'] h2,
+article[id='practices'] h3,
+article[id='practices'] h4,
+article[id='practices'] h5 {
+  color: #308276;
+}
+article[id='safety'] h2,
+article[id='safety'] h3,
+article[id='safety'] h4,
+article[id='safety'] h5 {
+  color: #308276;
+}
+
+
+
+
+
+
+.page-heading .overlay {
+  position: absolute;
+  display: block;
+  top: 0;
+  right:0;
+  bottom: 0;
+  left: 0;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+
+
+.page-heading #modeling-overlay {
+  background-color: #278f45;
+}
+.page-heading #achievement-overlay {
+  background-color: #d28fcf;
+}
+.page-heading #project-overlay {
+  background-color: #9c8e11;
+}
+.page-heading #practices-overlay {
+  background-color: #308276;
+}
+.page-heading #safety-overlay {
+  background-color: #308276;
+}
+
+
+
+article[id="modeling"] h2,
+article[id="modeling"] h3,
+article[id="modeling"] h4,
+article[id="modeling"] h5 {
+  color: #278f45;
+}
+
+
+article > header.page-header h1 {
+  font-weight: 500;
+  font-size: 48px;
+}
+#secondary-page-header {
+  display: block;
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+article h2 {
+  font-size: 26px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #eee;
+}
+article h3 {
+  font-size: 20px;
+  word-spacing: -2px;
+}
+article p,
+article blockquote {
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+}
+article ol {
+  font-family: 'Computer Modern Serif', serif;
+  font-weight: normal;
+  margin: 0 0 16px 1.5em;
+  list-style: decimal outside;
+}
+article ol li {
+  font-family: 'Computer Modern Serif', serif;
+  font-weight: normal;
+}
