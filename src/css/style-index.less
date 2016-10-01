@@ -14,6 +14,7 @@
  1.0 main-container
  2.0 page-heading
  3.0 navigation
+ 4.0 page-story
  ------------------------------------------------
 */
 /**
@@ -55,14 +56,25 @@
 }
 
 .page-heading h3 {
-  color: white;
+  color: #ffffff;
   font-size: 7em;
   font-weight: bold;
   font-family: "Avenir", sans-serif;
   padding-top: 20%;
-  z-index: 999;
+  z-index: 1 !important;
 }
 
+.page-heading .overlay {
+  position: absolute;
+  display: block;
+  top: 0;
+  right:0;
+  bottom: 0;
+  left: 0;
+  background-color: #25766d;
+  opacity: 0.5;
+  z-index: 0;
+}
 /**
 --  3.0 navigation
 */
@@ -76,6 +88,7 @@
 }
 
 #header {
+  visibility: hidden;
   position: absolute;
   z-index: 1000;
   transform: translate3D(0px, 0px, 0px);
@@ -177,3 +190,78 @@
   transform: none;
 }
 
+
+/**
+--  4.0 page-story
+*/
+
+.page-story {
+  padding-bottom: 30px;
+}
+
+.page-story > article {
+  padding: 32px 64px;
+  background-color: white;
+  box-shadow: 0px 4px 6px rgba(75, 75, 75, 0.5);
+}
+
+article {
+  margin: 40px auto;
+}
+article > header.page-header {
+  text-align: center;
+  font-family: 'Computer Modern Bright Semibold', sans-serif;
+  letter-spacing: -1px;
+  font-style: italic;
+  border: none;
+}
+.page-header {
+  margin: 30px 0;
+}
+
+article h2,
+article h3,
+article h4,
+article h5 {
+  font-family: 'Computer Modern Bright Semibold', sans-serif;
+  font-weight: 500;
+  color: #25766d;
+}
+article > header.page-header h1 {
+  font-weight: 500;
+  font-size: 48px;
+}
+#secondary-page-header {
+  display: block;
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+article h2 {
+  font-size: 26px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #eee;
+}
+article h3 {
+  font-size: 20px;
+  word-spacing: -2px;
+}
+article p,
+article blockquote {
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+}
+article ol {
+  font-family: 'Computer Modern Serif', serif;
+  font-weight: normal;
+  margin: 0 0 16px 1.5em;
+  list-style: decimal outside;
+}
+article ol li {
+  font-family: 'Computer Modern Serif', serif;
+  font-weight: normal;
+}
