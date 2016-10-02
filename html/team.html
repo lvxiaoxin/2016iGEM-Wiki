@@ -9,14 +9,7 @@
     <meta name="apple-mobile-web-app-capable" content="no" />
     <meta name="format-detection" content="telephone=no">
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="../css/style-index.css" />
 </head>
 <body>
@@ -24,59 +17,86 @@
 <div id="header" class="">
 
 </div>
+
 <div class="main-container">
-    <div class="container-fluid page-heading" style="background-image: url(../img/test.jpg);">
+    <div class="container-fluid page-heading" style="background-image: url(../img/team.jpg);">
         <h3> TEAM </h3>
-        <div class="overlay" id="team-overlay">
+    </div>
+    <div class="container" id="team">
+        <div class="team-header">
+            <h3> BNU-CHINA </h3>
+            <p>Our leadership team has deep expertise in the competition.</p>
+        </div>
+        <ul class="nav nav-tabs" role="tablist" id="team-page-tags">
+            <li role="presentation" class="active">
+                <a href="#all" role="tab" data-toggle="tab">All</a>
+            </li>
+            <li role="presentation">
+                <a href="#Wet_Lab" role="tab" data-toggle="tab">Wet Lab</a>
+            </li>
+            <li role="presentation">
+                <a href="Modeling" role="tab" data-toggle="tab">Modeling</a>
+            </li>
+            <li role="presentation">
+                <a href="Wiki_Construction" role="tab" data-toggle="tab">Wiki Contruction</a>
+            </li>
+            <li role="presentation">
+                <a href="Graphic_Design" role="tab" data-toggle="tab">Graphic Design</a>
+            </li>
+            <li role="presentation">
+                <a href="#Human_Practice" role="tab" data-toggle="tab">Human Practice</a>
+            </li>
+        </ul>
+
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="all">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('../img/team/wetlab/zjy.jpg');"></div>
+                        <div class="self-introduction">
+                            <h3>Jingyu Zhao</h3>
+                            <p>The leader of our team.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('../img/team/wetlab/lxy.jpg');"></div>
+                        <div class="self-introduction">
+                            <h3>Xinyu Liu</h3>
+                            <p>Project Design</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('../img/team/wetlab/ljq.jpg');"></div>
+                        <div class="self-introduction">
+                            <h3>Jingqiu Lan</h3>
+                            <p>Work and Study anytime</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('../img/team/wetlab/ty.jpg');"></div>
+                        <div class="self-introduction">
+                            <h3>Tian Ye</h3>
+                            <p>hello biologic</p>
+                        </div>
+                   </div>
+                </div>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="Wet_Lab"></div>
+            <div role="tabpanel" class="tab-pane" id="Modeling"></div>
+            <div role="tabpanel" class="tab-pane" id="Wiki_Construction"></div>
+            <div role="tabpanel" class="tab-pane" id="Graphic_Design"></div>
+            <div role="tabpanel" class="tab-pane" id="Human_Practice"></div>
         </div>
     </div>
-    <div class="container-fluid page-story" style="background-image: url(../img/landingImage.jpg); background-size: 100% auto;">
-        <article id="team" class="col-lg-10 col-lg-offset-1 col-md-12 col-md-offset-0 col-sm-offset-0 col-sm-12">
-            <header class="page-header">
-                <h1>Design</h1>
-                <small id="secondary-page-header">This is our Modeling Design</small>
-            </header>
-            <h2>Introduction</h2>
-            <p>Our modeling consists of the following three parts:</p>
-            <ol>
-                <li>
-                    To make the project applicable in real life, we designed a device with modified engineering bacteria inside, which can be placed in soil to attract and kill nematodes.
-                </li>
-                <li>
-                    Assuming there is a farmland, we took advantage of gas diffusion and nematodes’ movement analogue simulation to find the best position for the device to be placed.
-                </li>
-                <li>
-                    We established a database to broaden the scope of our applications, combined with our methods, to kill more different pests. We hope this new environment-friendly method, based on principles of synthetic biology, could be shared with and improved by the researchers all over the world.
-                </li>
-            </ol>
 
-            <h2>Device</h2>
-            <p>
-                In order to enable our project to be applied in real environment, we designed and made Device 1.0. Because the productivity of attracting substance by
-                <em>E.coli</em>
-                is limited and the price of man-made attracting substance is quite high. We choose low-cost CO
-                <sub>2</sub>
-                as our assistant attracting substance since it was demonstrated that carbon dioxide has a function of attracting nematodes
-                <sup>
-                    <a href="#ref-1-3">[1-3]</a>
-                </sup>
-            </p>
-            <figure class="text-center">
-                <img src="../img/BNU-MODELING1.png" alt="this is a pic" height="335px">
-                <figcaption>
-                    Fig.1 Our real product – Device 1.0
-                </figcaption>
-            </figure>
-        </article>
-    </div>
 </div>
 
 
 
 <!-- Bootstrap core JavaScript -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="../js/jquery-1.11.3.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
 <script src="../js/index.js"></script>
 </body>
 </html>
