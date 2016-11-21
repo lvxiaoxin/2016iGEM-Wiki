@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:BNU-China/Team - 2016.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2016.igem.org (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://2016.igem.org/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/Team:BNU-China/Team" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2016.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2016_igem_org:resourceloader:filter:minify-css:7:59593960c20e34faccc09e56269cf4e1 */</style>
+<script src="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:BNU-China/Team","wgTitle":"Team:BNU-China/Team","wgCurRevisionId":434473,"wgRevisionId":434473,"wgArticleId":3933,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:BNU-China/Team","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2016_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_BNU-China_Team skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+        <script type='text/javascript'         src ='/wiki/skins/Igem/resources/2016_skin.js'></script>
+
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('http://2016.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3ABNU-China%2FTeam",
+							a:"View+%2FTeam%3ABNU-China%2FTeam++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FTeam%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FTeam%26action%3Dhistory++Page+%2FTeam%3ABNU-China%2FTeam++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3ABNU-China%2FTeam%26action%3Dedit%26redlink%3D1++" });
+		</script>
+
+        <!-- Content div contains HQ_page for HQ styles, Logo and title div, and USER CONTENT -->
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+
+            <div id="top_title">
+                <div class="logo_2016">
+                    <a href="http://2016.igem.org">
+                    <img src="http://2016.igem.org/wiki/images/8/8b/HQ_page_logo.jpg" width="100px">
+                    </a>
+                </div>
+
+ 		        <h1 id="firstHeading" class="firstHeading">
+		            <span dir="auto">Team:BNU-China/Team</span>
+		        </h1>
+            </div>
+
+            <div id="HQ_page">
+                <div id="bodyContent">
+		            <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="iGEM 2016">
+    <meta name="author" content="Lv Xin (吕鑫),Zitan Chen(陈紫檀), Chengfei Peng(彭呈斐)">
+    <title>Team:BNU-CHINA - 2016.igem.org</title> 
+   <!-- <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/flexgrid?action=raw&amp;ctype=text/css">-->
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/reset?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fonts?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome2?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/bootstrap?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/style-index?action=raw&amp;ctype=text/css">
+     <link type="text/woff“ rel="stylesheet" href="http://2016.igem.org/wiki/images/d/d9/T--BNU-China--fontawesome.woff">
+
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/jquery?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/bootstrap?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/index?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+    <script src="http://2015.igem.org/common/MathJax-2.5-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script>
+      MathJax.Hub.Config({
+        jax: ["input/TeX","input/MathML","input/AsciiMath","output/HTML-CSS","output/NativeMML", "output/PreviewHTML"],
+        extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js", "fast-preview.js", "AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+        TeX: {
+        extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+      }
+      });
+    </script>
+  </script>
+</head>
+
+
+<body>
+<div class="header-container">
+    <nav class="navbar navbar-fixed-top navbar-inverse nav-adjust" role="navigation"  style="margin-top: 14px;">
+        <div class="container-fluid nav-container scrolled-top">
+            <!--<div id="nav-bg">-->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" id="navbar-toggle">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img id="taxolightlogo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg"/>
+                <a class="navbar-brand" id="navbar-brand" href="http://2016.igem.org/Team:BNU-China">BNU-China</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="http://2016.igem.org/Team:BNU-China" class="">Home</a></li>
+                    <li class="dropdown ">
+                        <a href="http://2016.igem.org/Team:BNU-China/Project" class="dropdown-toggle" data-toggle="dropdown">Project <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Project">Background</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Design">Design</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Proof">Results</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Description">Improvement</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modeling <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model">Introduction</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-theory">Modeling theory</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-factor">Single Factor Analysis</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-differential">Differential Equation</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-visual">Visual Simulation</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="./achievement.html" class="dropdown-toggle" data-toggle="dropdown">Achievements <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Parts">Parts</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Judging">Judging</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Practices <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Human_Practices">Schedule</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Practices">Human Practice</a></li>
+                        </ul>
+                    </li>
+                    <li class=""><a href="http://2016.igem.org/Team:BNU-China/Safety">Safety</a></li>
+                    <li class="dropdown focus">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Team#">Members</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Attributions">Attributions</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Collaborations">Collaborations</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Acknowledgement">Acknowledgement</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Notebook">Notebook</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Protocol">Protocol</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+            <!--</div>-->
+        </div><!-- /.container-fluid -->
+    </nav>
+</div>
+</body>
+
+
+<div class="main-container">
+    <div class="container-fluid page-heading" style="background-image: url(http://2016.igem.org/wiki/images/9/96/T--BNU-China--team.jpg);">
+        <h3> Team </h3>
+    </div>
+<div style="background-color:#ffffff;">
+    <div class="container" id="team">
+        <div class="team-header">
+            <h3> BNU-China </h3>
+            <p id="team-secondary">Our leadership team has deep expertise in the competition.</p>
+        </div>
+        <ul class="nav nav-tabs" role="tablist" id="myTab">
+            <li role="presentation" class="active">
+                <a href="#all" role="tab" data-toggle="tab" id="home-all">All</a>
+            </li>
+            <li role="presentation">
+                <a href="#Wet_Lab" role="tab" data-toggle="tab" id="home-Wet_Lab">Wet Lab</a>
+            </li>
+            <li role="presentation">
+                <a href="#Modeling" role="tab" data-toggle="tab" id="home-Modeling">Modeling</a>
+            </li>
+            <li role="presentation">
+                <a href="#Wiki_Construction" role="tab" data-toggle="tab" id="home-Wiki_Construction">Wiki Contruction</a>
+            </li>
+            <li role="presentation">
+                <a href="#Graphic_Design" role="tab" data-toggle="tab" id="home-Graphic_Design">Graphic Design</a>
+            </li>
+            <li role="presentation">
+                <a href="#Human_Practice" role="tab" data-toggle="tab" id="home-Human_Practice">Human Practice</a>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="myTabContent">
+            <div role="tabpanel" class="tab-pane fade active in" id="all" aria-labelledby="home-all">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/f2/T--BNU-China--zjy.jpg');">
+                        </div>
+                   </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Jingyu Zhao</h3>
+                            <p class="info-sec">The leader of our team</p>
+                            <p>The leader of our team. A junior bio-science student of Beijing Normal University. Her work involves of many aspects, mainly worked for wet lab part including constructing parts, expressing <em>alpha-tubulin</em>, <em>beta-tubulin</em> and organizing activities of human practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/f4/T--BNU-China--lxy.jpg');">
+                        </div>
+                   </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                             <h3>Xinyu Liu</h3>
+                             <p class="info-sec">Project Design</p>
+                             <p>A junior BNU student majoring in life science. Responsible for the design of the project and the management of the team, and mainly worked for the construction of the biobricks.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row team-sec">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Jingqiu Lan</h3>
+                            <p class="info-sec">Work and Study at Anytime</p>
+                            <p>A junior bio-science of Beijing Normal University. Mainly worked for wet lab part including designing the experiment, constructing vector and purifying <em>tubulin</em> protein.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/0/0a/T--BNU-China--ljq.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Tian Ye</h3>
+                            <p  class="info-sec">Parts Improvement</p>
+                            <p>A sophomore from College of Life Science in BNU. He is always filled with ideas and wants to change something. He mainly participated in the parts improvement and the construction of new parts. He finds enthusiasm in iGEM competition and is therefore interested in synthetic biology. In the leisure time, he enjoys reading and watching movies.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/2/23/T--BNU-China--ty.jpg');"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/0/05/T--BNU-China--rn.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Rong Nan</h3>
+                            <p  class="info-sec">Wet Lab Part</p>
+                            <p>A freshman majoring in life sciences , has deep interests in synthetic biology and wants to learn more in iGEM . Worked for the wet lab part, mainly took part in the construction of carriers . And also did some work in Human Practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/b/ba/T--BNU-China--zyh.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Yuhong Zou</h3>
+                            <p  class="info-sec">Alternate Work with Rest</p>
+                            <p>The member of our team, a junior biotech of Beijing Normal University. Mainly worked for wet lab part including constructing parts.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row team-sec">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Liufeng Dai</h3>
+                            <p  class="info-sec">Good Luck Girl</p>
+                            <p>The member of our team, a junior bioscience of Beijing Normal University. Mainly worked for wet lab part including constructing part.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/7/7f/T--BNU-China--dlf.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Yutong Wu</h3>
+                            <p  class="info-sec">Geek Boy</p>
+                            <p>A junior student from Beijing normal university. He is interested in the unlimited knowledge in life science. As a member of this team, he mainly partcipated in the extracting and purifying of the tubulin.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/e/ea/T--BNU-China--wyt.jpg');"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/5/50/T--BNU-China--xq.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Xue Qian</h3>
+                            <p  class="info-sec">Offer Float from the Sky</p>
+                            <p>A senior biological student. participate in basic lab work and essay writing.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/1/14/T--BNU-China--djc.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Junchen Deng</h3>
+                            <p  class="info-sec">I am "Study-God"</p>
+                            <p>A sophomore majoring in Biology. Mainly paticipating in topic selection and working on wet lab.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row team-sec">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Fansen Ji</h3>
+                            <p  class="info-sec">Let's go HP</p>
+                            <p>A sophomore biotech of Beijing Normal University. Mainly worked for Human Practice part including making interviews, doing investigations and surveys and activity organizations.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/5/5c/T--BNU-China--jfs.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Chengfei Peng</h3>
+                            <p  class="info-sec">I love my Hamster</p>
+                            <p>A junior student of Computer Science. Is responsible for some technical work like constructing our website.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/5/5b/T--BNU-China--pcf.jpg');"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/b/b8/T--BNU-China--lx.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Lv Xin</h3>
+                            <p  class="info-sec">Thinking Boy</p>
+                            <p>A computer science student in Beijing Normal University. Mainly worked for wiki parts, building web pages, some parts of modelling work and adding joy to the team.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/1/1b/T--BNU-China--czy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Zhiyao Chen</h3>
+                            <p  class="info-sec">Modeling Princekin</p>
+                            <p>A junior physics student. The member of modeling part, helped FAFU with works in modeling part. Also proposes many useful ideas in this team. Hoping to have a bravo experience with all team members.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row team-sec">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Zexue He</h3>
+                            <p  class="info-sec">A Little Algorithm Princess</p>
+                            <p>A sophomore in College of Information Science and Technology, major in Computer Science, a member of the wiki group. Do well in programming and algorithm analysis. she has strong desire to learn more about biosicence and to explore more about both webpage designing and algorithm.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/3/3e/T--BNU-China--hzx.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Yujing Gao</h3>
+                            <p  class="info-sec">A Little Modeling Princess</p>
+                            <p>A junior statistics student of Beijing Normal University. Part of the modeling group. Propose many useful ideas in the team. Combined the statistical modeling with the biological knowledge.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/9/9b/T--BNU-China--gyj.jpg');"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/fa/T--BNU-China--lzb.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Zebang Li</h3>
+                            <p class="info-sec">A Little Mathematical Princess</p>
+                            <p>A junior student in the department of mathematics in Beijing Normal University. mainly worked on the part of mathematical modeling, building some models to study some parameters of tubulin. He is interested how to apply math to some other fields.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/6/67/T--BNU-China--czt.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Zitan Chen</h3>
+                            <p class="info-sec">Enjoying C.S.</p>
+                            <p>A junior student of Computer Science. He is part of the Wiki group, works for the website and constructs the database.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row team-sec">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Shiyu He</h3>
+                            <p class="info-sec">Draw Graphic with Creativity</p>
+                            <p>A junior student of Beijing Normal University. She contributed to wiki and art in this project. It was her strong interest in Synthetic biology and iGEM. Also, it was a good opportunity for her to see how a project started and to witness a birth of an achievement.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/1/12/T--BNU-China--hsy.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Zekai Wu</h3>
+                            <p class="info-sec">Keep Improving</p>
+                            <p>A junior biology student. Participated in team building and also took part in human practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/4/44/T--BNU-China--wzk.jpg');"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/e/ed/T--BNU-China--xcx.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Caixuan Xiao</h3>
+                            <p class="info-sec">Draw Graphic with Charm</p>
+                            <p>A junior biology student of BNU. She was predominantly involved in art designing. While at this point in time she hopes that experiences like iGEM will help her to find her interests related to biology.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div role="tabpanel" class="tab-pane" id="Wet_Lab" aria-labelledby="home-Wet_Lab">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/f2/T--BNU-China--zjy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Jingyu Zhao</h3>
+                            <p class="info-sec">The leader of our team</p>
+                            <p>The leader of our team. A junior bio-science student of Beijing Normal University. Her work involves of many aspects, mainly worked for wet lab part including constructing parts, expressing <em>alpha-tubulin</em>, <em>beta-tubulin</em> and organizing activities of human practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/f4/T--BNU-China--lxy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Xinyu Liu</h3>
+                            <p class="info-sec">Project Design</p>
+                            <p>A junior BNU student majoring in life science. Responsible for the design of the project and the management of the team, and mainly worked for the construction of the biobricks.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Jingqiu Lan</h3>
+                            <p class="info-sec">Work and Study at Anytime</p>
+                            <p>A junior bio-science of Beijing Normal University. Mainly worked for wet lab part including designing the experiment, constructing vector and purifying <em>tubulin</em> protein.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/0/0a/T--BNU-China--ljq.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Tian Ye</h3>
+                            <p class="info-sec">Parts Improvement</p>
+                            <p>A sophomore from College of Life Science in BNU. He is always filled with ideas and wants to change something. He mainly participated in the parts improvement and the construction of new parts. He finds enthusiasm in iGEM competition and is therefore interested in synthetic biology. In the leisure time, he enjoys reading and watching movies.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/2/23/T--BNU-China--ty.jpg');"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/0/05/T--BNU-China--rn.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Rong Nan</h3>
+                            <p class="info-sec">Wet Lab Part</p>
+                            <p>A freshman majoring in life sciences , has deep interests in synthetic biology and wants to learn more in iGEM . Worked for the wet lab part, mainly took part in the construction of carriers . And also did some work in Human Practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/b/ba/T--BNU-China--zyh.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Yuhong Zou</h3>
+                            <p class="info-sec">Alternate Work with Rest</p>
+                            <p>The member of our team, a junior biotech of Beijing Normal University. Mainly worked for wet lab part including constructing parts.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Liufeng Dai</h3>
+                            <p class="info-sec">Good Luck Girl</p>
+                            <p>The member of our team, a junior bioscience of Beijing Normal University. Mainly worked for wet lab part including constructing part.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/7/7f/T--BNU-China--dlf.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Yutong Wu</h3>
+                            <p class="info-sec">Geek Boy</p>
+                            <p>A junior student from Beijing normal university. He is interested in the unlimited knowledge in life science. As a member of this team, he mainly partcipated in the extracting and purifying of the tubulin.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/e/ea/T--BNU-China--wyt.jpg');"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/5/50/T--BNU-China--xq.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Xue Qian</h3>
+                            <p class="info-sec">Offer Float from the Sky</p>
+                            <p>A senior biological student. participate in basic lab work and essay writing.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/1/14/T--BNU-China--djc.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Junchen Deng</h3>
+                            <p class="info-sec">I am "Study-God"</p>
+                            <p>A sophomore majoring in Biology. Mainly paticipating in topic selection and working on wet lab.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div role="tabpanel" class="tab-pane" id="Modeling" aria-labelledby="home-Modeling">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/1/1b/T--BNU-China--czy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Zhiyao Chen</h3>
+                            <p class="info-sec">Modeling Princekin</p>
+                            <p>A junior physics student. The member of modeling part, helped FAFU with works in modeling part. Also proposes many useful ideas in this team. Hoping to have a bravo experience with all team members.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/9/9b/T--BNU-China--gyj.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Yujing Gao</h3>
+                            <p class="info-sec">A Little Modeling Princess</p>
+                            <p>A junior statistics student of Beijing Normal University. Part of the modeling group. Propose many useful ideas in the team. Combined the statistical modeling with the biological knowledge.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Zebang Li</h3>
+                            <p class="info-sec">A Little Mathematical Princess</p>
+                            <p>A junior student in the department of mathematics in Beijing Normal University. mainly worked on the part of mathematical modeling, building some models to study some parameters of tubulin. He is interested how to apply math to some other fields.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/fa/T--BNU-China--lzb.jpg');"></div>
+                    </div>
+               </div>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="Wiki_Construction" aria-labelledby="home-Wiki_Construction">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/5/5b/T--BNU-China--pcf.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Chengfei Peng</h3>
+                            <p class="info-sec">I love my Hamster</p>
+                            <p>A junior student of Computer Science. Is responsible for some technical work like constructing our website.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/b/b8/T--BNU-China--lx.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Lv Xin</h3>
+                            <p class="info-sec">Shiny Boy</p>
+                            <p>A computer science student in Beijing Normal University. Mainly worked for wiki parts, building web pages, some parts of modelling work and adding joy to the team.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Zitan Chen</h3>
+                            <p class="info-sec"> Enjoying C.S. </p>
+                            <p>A junior student of Computer Science. He is part of the Wiki group, works for the website.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/6/67/T--BNU-China--czt.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Zexue He</h3>
+                            <p class="info-sec">A Little Algorithm Princess</p>
+                            <p>A sophomore in College of Information Science and Technology, major in Computer Science, a member of the wiki group. Do well in programming and algorithm analysis. she has strong desire to learn more about biosicence and to explore more about both webpage designing and algorithm.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/3/3e/T--BNU-China--hzx.jpg');"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div role="tabpanel" class="tab-pane" id="Graphic_Design" aria-labelledby="home-Graphic_Design">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/1/12/T--BNU-China--hsy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Shiyu He</h3>
+                            <p class="info-sec">Draw Graphic with Creativity</p>
+                            <p>A junior student of Beijing Normal University. She contributed to wiki and art in this project. It was her strong interest in Synthetic biology and iGEM. Also, it was a good opportunity for her to see how a project started and to witness a birth of an achievement.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/e/ed/T--BNU-China--xcx.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Caixuan Xiao</h3>
+                            <p class="info-sec">Draw Graphic with Charm</p>
+                            <p>A junior biology student of BNU. She was predominantly involved in art designing. While at this point in time she hopes that experiences like iGEM will help her to find her interests related to biology.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div role="tabpanel" class="tab-pane" id="Human_Practice" aria-labelledby="home-Human_Practice">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/f2/T--BNU-China--zjy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Jingyu Zhao</h3>
+                            <p class="info-sec">The leader of our team</p>
+                            <p>The leader of our team. A junior bio-science student of Beijing Normal University. Her work involves of many aspects, mainly worked for wet lab part including constructing parts, expressing <em>alpha-tubulin</em>, <em>beta-tubulin</em> and organizing activities of human practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/f/f4/T--BNU-China--lxy.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Xinyu Liu</h3>
+                            <p class="info-sec">Project Design</p>
+                            <p>A junior BNU student majoring in life science. Responsible for the design of the project and the management of the team, and mainly worked for the construction of the biobricks.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Fansen Ji</h3>
+                            <p class="info-sec">Let's go HP</p>
+                            <p>One of members of our team, a sophomore biotech of Beijing Normal University. Mainly worked for Human Practice part including making interviews, doing investigations and surveys and activity organizations.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/5/5c/T--BNU-China--jfs.jpg');"></div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Tian Ye</h3>
+                            <p class="info-sec">Parts Improvement</p>
+                            <p>A sophomore from College of Life Science in BNU. He is always filled with ideas and wants to change something. He mainly participated in the parts improvement and the construction of new parts. He finds enthusiasm in iGEM competition and is therefore interested in synthetic biology. In the leisure time, he enjoys reading and watching movies.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/2/23/T--BNU-China--ty.jpg');"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/0/05/T--BNU-China--rn.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Rong Nan</h3>
+                            <p class="info-sec">Wet Lab Part</p>
+                            <p>A freshman majoring in life sciences , has deep interests in synthetic biology and wants to learn more in iGEM . Worked for the wet lab part, mainly took part in the construction of carriers . And also did some work in Human Practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/b/ba/T--BNU-China--zyh.jpg');">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction right">
+                            <h3>Yuhong Zou</h3>
+                            <p class="info-sec">Alternate Work with Rest</p>
+                            <p>The member of our team, a junior biotech of Beijing Normal University. Mainly worked for wet lab part including constructing parts.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-6 team-intro">
+                        <div class="self-introduction left">
+                            <h3>Zekai Wu</h3>
+                            <p class="info-sec">Keep Improving</p>
+                            <p>A junior biology student. Participated in team building and also took part in human practice.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 col-sm-6 team-figure">
+                        <div class="pic" style="background-image: url('http://2016.igem.org/wiki/images/4/44/T--BNU-China--wzk.jpg');"></div>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="footer">
+    <div id="footer-div">
+        <ul id="footer-ul">
+            <li><a href="http://2016.igem.org/Team:BNU-China">Home</a></li>
+            <li><a href="http://2016.igem.org/Team:BNU-China/Project">Project</a></li>
+            <li><a href="http://2016.igem.org/Team:BNU-China/Model">Model</a></li>
+            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements">Achievements</a></li>
+            <li><a href="http://2016.igem.org/Team:BNU-China/Integrated_Practices">Practices</a></li>
+            <li><a href="http://2016.igem.org/Team:BNU-China/Safety">Safety</a></li>
+            <li><a href="http://2016.igem.org/Team:BNU-China/Team">Team</a></li>
+        </ul>
+        <span>© 2016 BNU</span>
+    </div>
+</div>
+</div>
+
+
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.010 seconds
+Real time usage: 0.011 seconds
+Preprocessor visited node count: 44/1000000
+Preprocessor generated node count: 209/1000000
+Post‐expand include size: 374/2097152 bytes
+Template argument size: 5/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2016_igem_org:pcache:idhash:3933-0!*!*!*!*!*!* and timestamp 20161120120609 and revision id 434473
+ -->
+</div>		            <div class="visualClear"></div>
+	            </div>
+		    </div>
+
+        </div>
+
+        <!-- Side Menubar -->
+        <div id="sideMenu">
+            <a href="http://2016.igem.org">
+                <div id="home_logo" >
+                <img src="http://2016.igem.org/wiki/images/b/bf/HQ_menu_logo.jpg">
+                </div>
+            </a>
+
+            <div style="clear:both; height:5px;"></div>
+
+            <div id="menuDisplay"></div>  <!- Menu will be loaded here ->
+        </div>
+
+        <!-- Pop_Why Div is definded here -->
+        <div class="pop_why_cover"></div>
+
+        <div class="pop_why_box" >
+            <div class="pop_close">× </div>
+            <div class="pop_why_content"><h3> Loading ... </h3></div>
+        </div>
+
+    </div>
+</html>

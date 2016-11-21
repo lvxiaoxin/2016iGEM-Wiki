@@ -1,0 +1,133 @@
+
+@font-face {
+  font-family: 'Myriad Set Pro nav';
+  src: url('http://2016.igem.org/wiki/images/e/ed/T--BNU-China--MyriadSetPro.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Myriad Set Pro';
+  src: url('http://2016.igem.org/wiki/images/7/7e/T--BNU-China--MyriadSetPro_text.ttf') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+   font-family: 'Dancing Script';
+   src: url('http://2016.igem.org/wiki/images/2/22/T--BNU-China--fontDancing.jpg') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Lucida';
+   src: url('http://2016.igem.org/wiki/images/2/2f/T--BNU-China--lucida.ttf');
+   font-weight: normal;
+   font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+/*******************************************************/
+
+@font-face {
+  font-family: 'Computer Modern Bright Semibold';
+  src: url('http://2015.igem.org/wiki/images/f/fc/Cmunbsr.eot');
+  src: url('http://2015.igem.org/wiki/images/f/fc/Cmunbsr.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/8/87/Cmunbsr.woff') format('woff'), url('http://2015.igem.org/wiki/images/d/d1/Cmunbsr.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Bright Semibold';
+  src: url('http://2015.igem.org/wiki/images/b/b3/Cmunbso.eot');
+  src: url('http://2015.igem.org/wiki/images/b/b3/Cmunbso.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/1/16/Cmunbso.woff') format('woff'), url('http://2015.igem.org/wiki/images/7/7b/Cmunbso.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Computer Modern Sans';
+  src: url('http://2015.igem.org/wiki/images/8/8e/Cmunss.eot');
+  src: url('http://2015.igem.org/wiki/images/8/8e/Cmunss.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/7/75/Cmunss.woff') format('woff'), url('http://2015.igem.org/wiki/images/8/83/Cmunss.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Sans';
+  src: url('http://2015.igem.org/wiki/images/f/f8/Cmunsx.eot');
+  src: url('http://2015.igem.org/wiki/images/f/f8/Cmunsx.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/1/17/Cmunsx.woff') format('woff'), url('http://2015.igem.org/wiki/images/1/16/Cmunsx.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Sans';
+  src: url('http://2015.igem.org/wiki/images/2/24/Cmunsi.eot');
+  src: url('http://2015.igem.org/wiki/images/2/24/Cmunsi.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/2/23/Cmunsi.woff') format('woff'), url('http://2015.igem.org/wiki/images/8/8a/Cmunsi.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Computer Modern Sans';
+  src: url('http://2015.igem.org/wiki/images/c/cd/Cmunso.eot');
+  src: url('http://2015.igem.org/wiki/images/c/cd/Cmunso.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/9/9f/Cmunso.woff') format('woff'), url('http://2015.igem.org/wiki/images/9/9b/Cmunso.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('http://2015.igem.org/wiki/images/3/38/Cmunrm.eot');
+  src: url('http://2015.igem.org/wiki/images/3/38/Cmunrm.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/1/1c/Cmunrm.woff') format('woff'), url('http://2015.igem.org/wiki/images/3/3a/Cmunrm.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('http://2015.igem.org/wiki/images/b/bd/Cmunbx.eot');
+  src: url('http://2015.igem.org/wiki/images/b/bd/Cmunbx.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/a/a3/Cmunbx.woff') format('woff'), url('http://2015.igem.org/wiki/images/4/42/Cmunbx.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('http://2015.igem.org/wiki/images/f/f9/Cmunti.eot');
+  src: url('http://2015.igem.org/wiki/images/f/f9/Cmunti.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/c/cc/Cmunti.woff') format('woff'), url('http://2015.igem.org/wiki/images/0/08/Cmunti.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Computer Modern Serif';
+  src: url('http://2015.igem.org/wiki/images/4/4c/Cmunbi.eot');
+  src: url('http://2015.igem.org/wiki/images/4/4c/Cmunbi.eot?#iefix') format('embedded-opentype'), url('http://2015.igem.org/wiki/images/1/14/Cmunbi.woff') format('woff'), url('http://2015.igem.org/wiki/images/0/01/Cmunbi.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway Thin";
+  src: url("http://2015.igem.org/wiki/images/5/5c/Raleway.eot?") format("eot"), url("http://2015.igem.org/wiki/images/4/44/Raleway.woff") format("woff"), url("http://2015.igem.org/wiki/images/4/4d/Raleway.ttf") format("truetype"), url("http://2015.igem.org/wiki/images/e/e0/Raleway.svg#Raleway-Thin") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Dancing Script";
+  src: url("http://2015.igem.org/wiki/images/2/21/Dancing_Script.eot?") format("eot"), url("http://2015.igem.org/wiki/images/7/7f/Dancing_Script.woff") format("woff"), url("http://2015.igem.org/wiki/images/5/59/Dancing_Script.ttf") format("truetype"), url("http://2015.igem.org/wiki/images/b/b2/Dancing_Script.svg#DancingScript") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

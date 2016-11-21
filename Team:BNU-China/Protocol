@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:BNU-China/Protocol - 2016.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2016.igem.org (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://2016.igem.org/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/Team:BNU-China/Protocol" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2016.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2016_igem_org:resourceloader:filter:minify-css:7:59593960c20e34faccc09e56269cf4e1 */</style>
+<script src="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:BNU-China/Protocol","wgTitle":"Team:BNU-China/Protocol","wgCurRevisionId":426927,"wgRevisionId":426927,"wgArticleId":31839,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:BNU-China/Protocol","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2016_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_BNU-China_Protocol skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+        <script type='text/javascript'         src ='/wiki/skins/Igem/resources/2016_skin.js'></script>
+
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('http://2016.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3ABNU-China%2FProtocol",
+							a:"View+%2FTeam%3ABNU-China%2FProtocol++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FProtocol%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FProtocol%26action%3Dhistory++Page+%2FTeam%3ABNU-China%2FProtocol++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3ABNU-China%2FProtocol%26action%3Dedit%26redlink%3D1++" });
+		</script>
+
+        <!-- Content div contains HQ_page for HQ styles, Logo and title div, and USER CONTENT -->
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+
+            <div id="top_title">
+                <div class="logo_2016">
+                    <a href="http://2016.igem.org">
+                    <img src="http://2016.igem.org/wiki/images/8/8b/HQ_page_logo.jpg" width="100px">
+                    </a>
+                </div>
+
+ 		        <h1 id="firstHeading" class="firstHeading">
+		            <span dir="auto">Team:BNU-China/Protocol</span>
+		        </h1>
+            </div>
+
+            <div id="HQ_page">
+                <div id="bodyContent">
+		            <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="iGEM 2016">
+    <meta name="author" content="Lv Xin (吕鑫),Zitan Chen(陈紫檀), Chengfei Peng(彭呈斐)">
+    <title>Team:BNU-CHINA - 2016.igem.org</title> 
+   <!-- <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/flexgrid?action=raw&amp;ctype=text/css">-->
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/reset?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fonts?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome2?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/bootstrap?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/style-index?action=raw&amp;ctype=text/css">
+     <link type="text/woff“ rel="stylesheet" href="http://2016.igem.org/wiki/images/d/d9/T--BNU-China--fontawesome.woff">
+
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/jquery?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/bootstrap?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/index?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+    <script src="http://2015.igem.org/common/MathJax-2.5-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script>
+      MathJax.Hub.Config({
+        jax: ["input/TeX","input/MathML","input/AsciiMath","output/HTML-CSS","output/NativeMML", "output/PreviewHTML"],
+        extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js", "fast-preview.js", "AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+        TeX: {
+        extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+      }
+      });
+    </script>
+  </script>
+</head>
+
+
+<body>
+<div class="header-container">
+    <nav class="navbar navbar-fixed-top navbar-inverse nav-adjust" role="navigation"  style="margin-top: 14px;">
+        <div class="container-fluid nav-container scrolled-top">
+            <!--<div id="nav-bg">-->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" id="navbar-toggle">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img id="taxolightlogo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg"/>
+                <a class="navbar-brand" id="navbar-brand" href="http://2016.igem.org/Team:BNU-China">BNU-China</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="http://2016.igem.org/Team:BNU-China" class="">Home</a></li>
+                    <li class="dropdown ">
+                        <a href="http://2016.igem.org/Team:BNU-China/Project" class="dropdown-toggle" data-toggle="dropdown">Project <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Project">Background</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Design">Design</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Proof">Results</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Description">Improvement</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modeling <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model">Introduction</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-theory">Modeling theory</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-factor">Single Factor Analysis</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-differential">Differential Equation</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-visual">Visual Simulation</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="./achievement.html" class="dropdown-toggle" data-toggle="dropdown">Achievements <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Parts">Parts</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Judging">Judging</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Practices <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Human_Practices">Schedule</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Practices">Human Practice</a></li>
+                        </ul>
+                    </li>
+                    <li class=""><a href="http://2016.igem.org/Team:BNU-China/Safety">Safety</a></li>
+                    <li class="dropdown focus">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Team#">Members</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Attributions">Attributions</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Collaborations">Collaborations</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Acknowledgement">Acknowledgement</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Notebook">Notebook</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Protocol">Protocol</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+            <!--</div>-->
+        </div><!-- /.container-fluid -->
+    </nav>
+</div>
+</body>
+
+
+<style>
+  article h2, article h3, article h4, article h5, figcaption, .reference::before {
+    color: #660000 !important;
+  }
+
+</style>
+
+</p><p>
+    <div class="main-container">
+        <div id="page-heading" class="container-fluid page-heading"
+                               style="background-image: url(http://2016.igem.org/wiki/images/a/a8/T--BNU-China--hand.jpg);">
+            <h3> Protocol </h3>
+        </div>
+        <div>
+            <div class="page-story">
+                <article id="modeling"
+                         class="col-lg-10 col-lg-offset-1 col-md-12 col-md-offset-0 col-sm-offset-0 col-sm-12">
+                    <header class="page-header">
+                        <h1>Protocol</h1>
+                    </header>
+                    <h2>Cloning</h2>
+                    <h3>PCR</h3>
+                    <h4>Reaction system:</h4>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="6">Universal DNA polymerase TransGen</th>
+                        </tr>
+                        <tr>
+                            <td align="center">ddH<sub>2</sub>O</td>
+                            <td align="center">10x Taq Buffer</td>
+                            <td align="center">2.5 mM dNTP</td>
+                            <td align="center">R+F-Primer</td>
+                            <td align="center">Template</td>
+                            <td align="center">Taq</td>
+                        </tr>
+                        <tr>
+                            <td align="center">21.5 μL</td>
+                            <td align="center">5 μL</td>
+                            <td align="center">1 μL</td>
+                            <td align="center">10 μL</td>
+                            <td align="center">10 μL</td>
+                            <td align="center">2.5 μL</td>
+                        </tr>
+                    </table>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="6"><em>TaKaRa Taq</em><sup>TM</sup></th>
+                        </tr>
+                        <tr>
+                            <td align="center">ddH<sub>2</sub>O</td>
+                            <td align="center">5x Taq Buffer</td>
+                            <td align="center">2.5 mM dNTP</td>
+                            <td align="center">R+F-Primer</td>
+                            <td align="center">Template</td>
+                            <td align="center">Taq</td>
+                        </tr>
+                        <tr>
+                            <td align="center">20 μL</td>
+                            <td align="center">10 μL</td>
+                            <td align="center">5 μL</td>
+                            <td align="center">4 μL</td>
+                            <td align="center">10 μL</td>
+                            <td align="center">1 μL</td>
+                        </tr>
+                    </table>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="4">primeSTAR from <em>TaKaRa</em><sup>TM</sup></th>
+                        </tr>
+                        <tr>
+                            <td align="center">ddH<sub>2</sub>O</td>
+                            <td align="center">2x primeSTAR</td>
+                            <td align="center">R+F-Primer</td>
+                            <td align="center">Template</td>
+                        </tr>
+                        <tr>
+                            <td align="center">21 μL</td>
+                            <td align="center">25 mL</td>
+                            <td align="center">2 μL</td>
+                            <td align="center">2 μL</td>
+                        </tr>
+                    </table>
+
+                    <h4>Process:</h4>
+                    <p>98&#176;C 2min </p>
+                    <p> \( \begin{equation} \left. \begin{array}{lcl} {98&#176;C\ 10s} \\ {56&#176;C\ 15s} \\{72&#176;C\
+                    30s} \end{array} \right \} Cycle\ 35 \end{equation} \) </p>
+                    <p>72&#176;C 5min </p>
+                    <p>4&#176;C --- </p>
+                    <p>98&#176;C 2min </p>
+                    <p>\(\begin{equation}\left. \begin{array}{lcl} {98&#176;C\ 10s} \\ {55&#176;C\ 5s} \\{72&#176;C\ 8s}
+                    \end{array} \right\}Cycle\ 35\end{equation}\)</p>
+                    <p>72&#176;C 5min </p>
+                    <p>15&#176;C --- </p>
+                    <h4>Fusion PCR：</h4>
+                    <ol>
+                        <li> basic PCR</li>
+                        <li> use the PCR product of step 1 as template to do PCR</li>
+                        <li> use the PCR product of step 2 as template to do PCR, but first five cycles don’t add primer,
+                            add primer at the sixth cycle and continue PCR.
+                        </li>
+                    </ol>
+                    <h5> The system of step 2: </h5>
+                    <p>H<sub>2</sub>O 21μL</p>
+                    <p>2x primeSTAR 25mL</p>
+                    <p>R+F-Primer 2 μL</p>
+                    <p>Template① 1μL</p>
+                    <p>Template② 1μL</p>
+
+                    <h3>Electrophoresis---Gel Purification</h3>
+                    <h4>Material:</h4>
+                    <p>Agarose gel: 1% agarose dissolved in 1 x TAE + gelstain</p>
+                    <h4>Protocol:</h4>
+                    <p>We used gelstain to stain the DNA and imaged it in a Transilluminator.</p>
+                    <p>We used the gel extraction kit to get the objective fragment.</p>
+                    <p>We used the DNA fragment purification kit to get the objective fragment.</p>
+                    <h3>Digestion</h3>
+                    <table class="table">
+                        <tr>
+                            <th colspan="6" style="text-align: center">50 μL reaction system</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">10x \(\ \mathrm{H \ buffer}\)</td>
+                            <td align="center">\(Eco\mathrm{R}\ \mathrm{I}\)</td>
+                            <td align="center">\(Pst\ \mathrm{I}\)</td>
+                            <td align="center">\(\mathrm{Plasmid}\)</td>
+                            <td align="center">\(\mathrm{H_2 O}\)</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">5 μL</td>
+                            <td align="center">1.5 μL</td>
+                            <td align="center">1.5 μL</td>
+                            <td align="center">15 μL</td>
+                            <td align="center">27 μL</td>
+                        </tr>
+                    </table>
+                    <table class="table">
+                        <tr>
+                            <th colspan="6" style="text-align: center">10 μL reaction system</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">10x \(\ \mathrm{H \ buffer}\)</td>
+                            <td align="center">\(Eco\mathrm{R}\ \mathrm{I}\)</td>
+                            <td align="center">\(Pst\ \mathrm{I}\)</td>
+                            <td align="center">\(\mathrm{Plasmid}\)</td>
+                            <td align="center">\(\mathrm{H_2 O}\)</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">1 μL</td>
+                            <td align="center">0.3 μL</td>
+                            <td align="center">0.3 μL</td>
+                            <td align="center">3 μL</td>
+                            <td align="center">5.4 μL</td>
+                        </tr>
+                    </table>
+
+                    <h2>Ligation</h2>
+                    <table class="table">
+                        <tr>
+                            <th colspan="5" style="text-align: center">Ligation reaction system</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">DNA</td>
+                            <td align="center">Plasmid</td>
+                            <td align="center">T4 buffer</td>
+                            <td align="center">T4 ligase</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">7 μL</td>
+                            <td align="center">1 μL</td>
+                            <td align="center">1 μL</td>
+                            <td align="center">1 μL</td>
+                        </tr>
+                    </table>
+
+                    <h3>LR reaction</h3>
+
+                    <h4>1. Entry linearization</h4>
+                    <p>β2-TOPO (plasmid concentration 117 ng/μL)NotI 37&#176;C enzyme digestion for the night</p>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="2"> 50 μL Single enzyme system</th>
+                        </tr>
+                        <tr>
+                            <td align="center">10x BufferH</td>
+                            <td align="center">5 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">DNA</td>
+                            <td align="center">20 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">ddH<sub>2</sub>O</td>
+                            <td align="center">12.5 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Enzyme</td>
+                            <td align="center">2.5 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">0.1%BSA</td>
+                            <td align="center">5 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">0.1%Triton X-100</td>
+                            <td align="center">5 μL</td>
+                        </tr>
+                    </table>
+
+                    <h4>2. LR system (\(4\mu\mathrm{L}\)):</h4>
+                    <p>100 ng/μL linear Entry: 0.5 μL</p>
+                    <p>destination vector: 1 μL (pCambia1300-nluc / pCambia1300-cluceach one)</p>
+                    <p>LR Clonase II enzyme mix: 1 μL</p>
+                    <p>ddH<sub>2</sub>O: 0.5 μL</p>
+                    <p>mix slightly, water base for 5h at 25&#176;C </p>
+                    <p>transform, 4 μL, reactant transform 50 μL competent cells</p>
+
+                    <h2>Transformation</h2>
+
+                    <h3>Material:</h3>
+                    <table class="table">
+                        <tr>
+                            <th colspan="4" style="text-align: center">LB liquid medium</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">Tryptone</td>
+                            <td align="center">Yeast extract powder</td>
+                            <td align="center">NaCl</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">10 g/L</td>
+                            <td align="center">5 g/L</td>
+                            <td align="center">10 μL</td>
+                        </tr>
+                    </table>
+
+                    <h3>Protocol:</h3>
+                    <p> Preparation of the competent cells </p>
+                    <p> 1 μL ligation product + 50 μL cells </p>
+                    <p>Heatshock of Trans5α(42&#176;C, 45s)</p>
+                    <p>Put on ice(2min)</p>
+                    <p>Add 500 μL LB media and incubate for 1h(37&#176;C, 150rpm)</p>
+                    <p>Centrifuge at 4000 rpm for 1min and remove 400 μL supernatant</p>
+                    <p>Resuspend the pellets using the left supernatant</p>
+                    <p>Spread plates(with Kan;Chl)</p>
+                    <p>Incubate for 12~16h(37&#176;C)</p>
+
+                    <h2>Protein expression</h2>
+                    <ol>
+                        <li>Inoculated 3 mL LB media including relevant antibiotics with the monoclonal colony of expression
+                            plasmid, incubate for 12~16h(37&#176;C, 190rpm)
+                        </li>
+                        <li>Inoculated 100 mL TM expression media including relevant antibiotics with the 1 mL bacteria
+                            liquid, incubate for 3h(37&#176;C, 250rpm,OD<sub>600</sub>=0.6~0.8)
+                        </li>
+                        <li>Add IPTG into it until its final concentration is 1 mmol/L, incubate for 4~6h(37&#176;C,
+                            250rpm)
+                        </li>
+                        <li>Centrifuge at 6000 rpm for 10min and remove supernatant</li>
+                        <li>Gather sediment, cryopreserve at -20&#176;C</li>
+                    </ol>
+                    <p>Material:</p>
+                    <p>TM expression medium:1000 mL pH=7.4</p>
+
+                    <table class="table">
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">tryptone</td>
+                            <td align="center">Yeast extract powder</td>
+                            <td align="center">NaCl</td>
+                            <td align="center">glucose</td>
+                            <td align="center">glycerol</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">1.2 g</td>
+                            <td align="center">2.4 g</td>
+                            <td align="center">1.0 g</td>
+                            <td align="center">1.0 g</td>
+                            <td align="center">0.6 mL</td>
+                        </tr>
+                    </table>
+                    <p>Autoclaving 115℃, 20min</p>
+
+                    <h2>Detection</h2>
+                    <h3>SDS-PAGE</h3>
+                    <h4>Materials</h4>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center">Gel</th>
+                            <th style="text-align: center">Tris-HCl</th>
+                            <th style="text-align: center">Acr/Bis 30%</th>
+                            <th style="text-align: center">SDS 10%</th>
+                            <th style="text-align: center">ddH<sub>2</sub>O</th>
+                            <th style="text-align: center">TEMED</th>
+                            <th style="text-align: center">AP 10%</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Stacking Gel(4%)</td>
+                            <td align="center">pH=6.8 500 μL</td>
+                            <td align="center">500 μL</td>
+                            <td align="center">25 μL</td>
+                            <td align="center">1350 μL</td>
+                            <td align="center">2.5 μL</td>
+                            <td align="center">12.5 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Running Gel(12%)</td>
+                            <td align="center">pH=8.8 1250 μL</td>
+                            <td align="center">2000 μL</td>
+                            <td align="center">50 μL</td>
+                            <td align="center">1675 μL</td>
+                            <td align="center">2.5 μL</td>
+                            <td align="center">25 μL</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Running Gel(18%)</td>
+                            <td align="center">pH=8.8 1250 μL</td>
+                            <td align="center">3000 μL</td>
+                            <td align="center">50 μL</td>
+                            <td align="center">675 μL</td>
+                            <td align="center">2.5 μL</td>
+                            <td align="center">25 μL</td>
+                        </tr>
+                    </table>
+                    <table class="table">
+                        <tr>
+                            <th colspan="4" style="text-align: center">Running Buffer</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">Tris-HCl</td>
+                            <td align="center">Glycine</td>
+                            <td align="center">(w/v) SDS</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">25 mmol/L</td>
+                            <td align="center">0.192 mol/L</td>
+                            <td align="center">0.1%</td>
+                        </tr>
+                    </table>
+                    <h4>Protocol</h4>
+                    <p>The SDS polyacrylamide gels are prepared in the so-called PerfectBlue™ Twin Double Gel System.</p>
+                    <p>After ensuring that the equipment is waterproof, the 12% (or 18%) running gel is mixed and filled
+                    into the chamber. Pipetting about 1 ml of H<sub>2</sub>O on top of the running gel to seal the gel.
+                    </p>
+                    <p>After polymerization, the remaining H<sub>2</sub>O is removed and the 12% stacking gel is filled on
+                    top. Insert
+                    a comb to create sample pockets.</p>
+                    <p>After the stacking gel also polymerized, 1 x running buffer is used to run the Double Gel System via
+                    the SDS gel. </p>
+                    <p>After loading the generated pockets with the samples, the stacking gel is run at 100 V and then
+                    running gel at 120 V. </p>
+
+                    <h3>Western Blot</h3>
+                    <h4>System</h4>
+                    <table class="table">
+                        <tr>
+                            <th colspan="6" style="text-align: center"> PBST:1000 mL(pH=7.4)</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">NaCl(137mM)</td>
+                            <td align="center">KCl(2.7mM)</td>
+                            <td align="center">Na<sub>2</sub>HPO<sub>4</sub>(10mM)</td>
+                            <td align="center">K<sub>2</sub>HPO<sub>4</sub>(2mM)</td>
+                            <td align="center">Tween-20</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">8 g</td>
+                            <td align="center">0.2 g</td>
+                            <td align="center">1.44 g</td>
+                            <td align="center">0.24 g</td>
+                            <td align="center">0.5 mL</td>
+                        </tr>
+
+                    </table>
+
+                    <table class="table">
+                        <tr>
+                            <th colspan="4" style="text-align: center">Imprint buffer：2000 mL (pH=8.3) Transfer Buffer</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">Tris</td>
+                            <td align="center">Gly</td>
+                            <td align="center">Methanol</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">6.06 g</td>
+                            <td align="center">28.8 g</td>
+                            <td align="center">400 mL</td>
+                        </tr>
+                    </table>
+
+                    <h4>Protocol</h4>
+                    <p>Transfer (Prepare transfer Buffer just before glue leaking, and precool at -20℃).</p>
+                    <ol>
+                        <li>Put the transfer Buffer and the black subface of transfer splint downword, and lay a sponge in
+                            it. Several filter paper(three pieces of filter paper), glue(except Stacking Gel).
+                        </li>
+                        <li>Activation PVDF membrane in advance with anhydrous ethanol, and put it on the membrane.</li>
+                        <li>Three layers of filter paper, sponge, Squeeze out of the bubbles, turn tight.</li>
+                        <li>The black subface electric rotary groove stick to each other, put in ice.</li>
+                        <li>110V, 120min.</li>
+                        <li>5% skim milk powder (prepared by PBST), block for a night.</li>
+                        <li>Dilute Primary antibody at the proportion of 1:2000 with 3% skim milk powder(add 0.02% sodium
+                            azide ), incubate 1h at the room temperature.
+                        </li>
+                        <li>PBST elute, wash with shocking for 5min , three times.</li>
+                        <li>Dilute Secondary antibody at the proportion of 1:2000 with 3% skim milk powder, incubate 1h at
+                            the room temperature.
+                        </li>
+                        <li>PBST elute, wash with shocking for 5min, three times.</li>
+                        <li>Color development.</li>
+                    </ol>
+
+                    <h2>Ni-beads protein purification</h2>
+
+
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="4"> NPI-10 buffer(1L) pH=8.0 filtration sterilization
+                            </th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">NaH<sub>2</sub>PO<sub>4</sub>·H<sub>2</sub>O</td>
+                            <td align="center">NaCl</td>
+                            <td align="center">imidazole</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">6.9</td>
+                            <td align="center">17.54</td>
+                            <td align="center">0.68</td>
+                        </tr>
+                    </table>
+
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="4">NPI-20 buffer(1L) pH=8.0 filtration sterilization</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">NaH<sub>2</sub>PO<sub>4</sub>·H<sub>2</sub>O</td>
+                            <td align="center">NaCl</td>
+                            <td align="center">imidazole</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage(g)</td>
+                            <td align="center">6.9</td>
+                            <td align="center">17.54</td>
+                            <td align="center">1.36</td>
+                        </tr>
+                    </table>
+
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="4">NPI-250 buffer(1L) pH=8.0 filtration sterilization
+                            </th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">NaH<sub>2</sub>PO<sub>4</sub>·H<sub>2</sub>O</td>
+                            <td align="center">NaCl</td>
+                            <td align="center">imidazole</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage (g)</td>
+                            <td align="center">6.9</td>
+                            <td align="center">17.54</td>
+                            <td align="center">17.0</td>
+                        </tr>
+                    </table>
+
+                    <h4>Protocol</h4>
+                    <ol>
+                        <li>Cut tips. Add 30 μL Ni 6 fast flow Beads into 1.5 mL EP.</li>
+                        <li>Add 1 mL NPI-10 buffer, mixing wash, sedimentate at low speed and wash 3 times.</li>
+                        <li>Centrifuge and absorb supernatant into buffer. 4℃ binding 3h, rotate and mix.</li>
+                        <li>After binding, Put on ice(5min), Centrifuge at 2000rpm for 1min.</li>
+                        <li>Absorb 80μL supernatant as control and remove the other supernatant, add 1 mL NPI-20 washing,
+                            upside and down to mix, still standing, Centrifuge at 2000 rpm for 1min(4℃), wash 3~5 times.
+                        </li>
+                        <li>Add 500μL NPI-250 into Beads, rotate and mix for 15min, gather supernatant, add 500 μL NPI-250 ,
+                            rotate and mix for 15min, gather supernatant again.
+                        </li>
+                    </ol>
+
+                    <h2>Renaturation of the inclusion bodies</h2>
+
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="4">Binding buffer(1L) pH=8.0</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">NaCl(500 mmol/L)</td>
+                            <td align="center">Na<sub>3</sub>PO<sub>4</sub>·12H<sub>2</sub>O(20 mmol/L)</td>
+                            <td align="center">imidazole (20 mmol/L)</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage(g)</td>
+                            <td align="center">29.22</td>
+                            <td align="center">7.6</td>
+                            <td align="center">1.36</td>
+                        </tr>
+                    </table>
+                    <p>After cell disruption, sediment dissolves in binding buffer(8 mol/L urea)</p>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="5">Washing buffer(1 L)</th>
+                        </tr>
+                        <tr>
+                            <td align="center">Reagent</td>
+                            <td align="center">Tris-HCl(50 mmol/L)</td>
+                            <td align="center">EDTA(5 mmol/L)</td>
+                            <td align="center">NaCl(100 mmol/L)</td>
+                            <td align="center">Triton X-100(1%)</td>
+                        </tr>
+                        <tr>
+                            <td align="center">Dosage</td>
+                            <td align="center">100 mL</td>
+                            <td align="center">1.8612 g</td>
+                            <td align="center">5.844 g</td>
+                            <td align="center">10 mL</td>
+                        </tr>
+                    </table>
+
+                    <ol>
+                        <li>Induced expression</li>
+                        <li>Collect sediment after ultrasonication, use washing buffer including 2, 3 mol/L urea to wash
+                            sediment in turn. Finally, use washing buffer including 8 mol/L urea to dissolve. Centrifuge and
+                            absorb supernatant, measure protein concentration and make it keep about 1 mg/mL. Dialyze these
+                            supernatant using binding buffer including concentration gradient urea(6,5,4,3,2,1,0.5 and
+                            0 mol/L).
+                        </li>
+                    </ol>
+
+
+                    <h2>Extracting tubulin from porcine brains</h2>
+                    <ol>
+                        <li>Pick up 20 porcine brains from Beijing No.5 Meat Processing. For tubulin extraction
+                            experiment, the brains should be as fresh as possible. Take an ice box to store the brains.
+                            Avoid contact between the brains.
+                        </li>
+                        <li>While getting the brains, another student should stay in the lab and prepared the centrifuge
+                            (set one at 4℃ and another at 37℃, also pre-warm the rotor). Put electronic balance, grinder, a
+                            graduated cylinder in refrigerator and pre-warm the glycerol and PEM in 37℃. prepare the fresh
+                            ATP and GTP buffer in the morning.
+                        </li>
+                        <li>Clean the brain by tearing off the meninges and blood clots using kim wipes or by hand.</li>
+                        <li>After cleaning, weigh the brains, put the brains in the blender, then add the same volume buffer
+                            PEM(with 1 mM DTT) in it accordingly.
+                        </li>
+                        <li>Homogenate the brain for 3s, 10 times, time interval between two homogenate is 5s, in order to
+                            avoid destroy the tubulin because of high thermos.
+                        </li>
+                        <li>Pour the homogenate into a flask, incubate in 4℃ for 30 min to depolymerize microtubules.</li>
+                        <li>Pour the homogenate into tubes for Type 45Ti rotor and balance each tube.</li>
+                        <li>Centrifuge at 8000 rpm for 40min at 4℃. Filter the supernatant with 4 gauzes. Then centrifuge
+                            the filtrate at 40000 g for 40min at 4℃.
+                        </li>
+                        <li>Add 1/2 volume of warmed glycerol drop-wise with continuous shaking, mix gently but thoroughly.
+                            Add GTP (final concentration 0.1 mmol/L), MgCl<sub>2</sub> (final concentration 3 mmol/L), and
+                            EGTA (final
+                            concentration 1 mmol/L). Incubate in a 37℃ water bath for 1h, shake gently and occasionally.
+                        </li>
+                        <li>Balance each tube and centrifuge at 100000 g for 40 min at 35℃.Discard supernatant, the pellet
+                            is crude extracts. Split charge them into 50 mL centrifuge tubes, each tube contains 5 g. Snap
+                            freeze the tubulin in 15 μL aliquots in liquid nitrogen and further stored at -80℃.
+                        </li>
+                        <li>When going to do refined depuration, melt the freezing crude extract at 4℃ refrigerator on ice
+                            over night. Pop out 1 g of the pellet out of the tubes with a spatula. Put the pellets in the
+                            Dounce grinder, then add cold PEM in the tube to wash off residual pellets.
+                        </li>
+                        <li>Re-suspend the pellets with grinder, keep the grinder on ice, and grinding occasionally. After
+                            30min, pour out the solution and rinse the grinder with cold PEM. Total re-suspended volume is
+                            5 mL.
+                        </li>
+                        <li>Add GTP (final concentration 0.1 mmol/L). Place it on ice for 1h to depolymerize. Shake it
+                            occasionally.
+                        </li>
+                        <li>Centrifuge the depolymerized tubulin at 100000 g for 40 min at 4℃.</li>
+                        <li>Recover the supernatant and pour it into a flask. Add equal volume of warmed PIPES( pH =6.9 ),
+                            DMSO(final concentration 10%), GTP (final concentration 0.1 mmol/L), MgCl<sub>2</sub> (final
+                            concentration
+                            1 mmol/L) and EGTA (final concentration 1 mmol/L). Mix gently but thoroughly.
+                        </li>
+                        <li>Incubate in a 37℃ water bath for 1 h. the solution would look cloudy.</li>
+                        <li>Balance each tube and centrifuge at 100000 g for 1h at 35℃.</li>
+                        <li>Discard the supernatant. Risen the pellet briefly with cold PEM, add GTP (final concentration
+                            0.1 mmol/L). Place it on ice for 1h to depolymerize. Shake it occasionally.
+                        </li>
+                        <li>Centrifuge the depolymerized tubulin at 100000 g for 40min at 4 ℃.</li>
+                        <li>Recover the supernatant and pour it into a flask. Add equal volume of warmed PIPES ( pH= 6.9 ),
+                            DMSO(final concentration 10%), GTP (final concentration 0.1 mmol/L), MgCl<sub>2</sub> (final
+                            concentration 1 mmol/L) and EGTA (final concentration 1 mmol/L). Mix gently but thoroughly.
+                        </li>
+                        <li>Incubate in a 37℃ water bath for 1 h. the solution would look cloudy.</li>
+                        <li>Balance each tube and centrifuge at 100000 g for 1h at 35℃.</li>
+                        <li>Discard the supernatant. Risen the pellet briefly with cold PEM, add GTP (final concentration
+                            0.1 mmol/L). Place it on ice for 1 h to depolymerize. Shake it occasionally.
+                        </li>
+                        <li>Centrifuge the depolymerized tubulin at 100000 g for 40 min at 4℃.</li>
+                        <li>Recover the supernatant, add equal volume polymerize buffer (containing 100 mmol/L PIPES-KOH, 2
+                            mmol/L EGTA, 2 mmol/L MgCl<sub>2</sub>, 2 mmol/L GTP and 60% glycerol).
+                        </li>
+                        <li>Incubate in a 37℃ water bath for 1 h. Adding a series concentrations of taxol.</li>
+                        <li>Balance each tube and centrifuge at 100000 g for 1 h at 35℃. The pellet is fine purified
+                            product.
+                        </li>
+                    </ol>
+
+                    <h3>Preparing STM samples</h3>
+                    <ol>
+                        <li>Use 200 # copper mesh to prepare the samples. This procedure was done in Institute of
+                            Biophysics, Chinese Academy of Science. Pretreat the copper mesh with Varian Plasma Cleaner PDC-32G.</li>
+                        <li>Add protein solution on copper mesh. Keep still for 1 min.</li>
+                        <li>Add 3 drops of uranyl acetate on parafilm. Mix the protein binding side with uranyl acetate
+                            thoroughly.
+                        </li>
+                        <li>Store the sample carefully. Observe by transmission electron microscopy in Beijing Normal
+                            University.
+                        </li>
+                    </ol>
+
+                    <h3> OD<sub>350</sub> test </h3>
+                    <ol>
+                        <li> Take out the tubulin monomer solution after precision purification from -80℃, and melt on the ice.
+                        </li>
+                        <li>Prepare 10 um tubulin monomer solution with the same concentration, and add isopyknic
+                            polymerization buffer (the formula is the same as the polymerization buffer used in precision
+                            purification). This step finished on the ice in order to avoid the influence of the
+                            Spontaneous tubulin polymerization because of the high room temperature.
+                        </li>
+                        <li> Prepare a series concentration gradient of taxol solution and add the
+                            tubulin polymerization system.
+                        </li>
+                        <li> Incubate for 1h at 37℃.</li>
+                        <li> Use Nanodrop UV-IS to determinate absorbance value, and set measurement parameters 280 nm, 350
+                            nm and 750 nm, but we only read at 350 nm.
+                        </li>
+                        <li> Use isopyknic mixed solution of polymerization buffer and PEM buffer to calibrate baseline,
+                            each group of samples detect three times in parallel.
+                        </li>
+                    </ol>
+
+                    <h2>Improvement</h2>
+                    <h3>Culture and collection</h3>
+                    <ol>
+                        <li>Use LB medium to preculture transformed media 5 ml for 12h, 200 rpm/ 37℃.</li>
+                        <li>
+                            Culture 5 mL preculture media into 100 mL TB medium for about 3h until OD<sub>600</sub>=0.4～0.6, 200 rpm/
+                            37℃.
+                        </li>
+                        <li>Add arabinose or turn to 42℃ to induce P(3HB) expression for 72h, 220 rpm.</li>
+                        <li>Collect cells and centrifuge for 3min, 5,000 rpm.</li>
+                        <li>Remove supernatant and suspend with pure water.</li>
+                        <li>Centrifuge again for 3min, 5,000 rpm and remove its supernatant.</li>
+                    </ol>
+
+
+                    <h3>Extract PHB<sup>1</sup></h3>
+                    <ul>
+                        <li>Centrifuge settings: 4000RPM, 10mins.</li>
+                        <li> Scale as appropriate.</li>
+                        <li> After each centrifuge step the supernatant should be poured off.</li>
+                    </ul>
+                    <ol>
+                        <li>Resuspend precipitation in 10 mL Triton X-100(1% v/v in PBS) for 30mins at room temp.</li>
+                        <li>Centrifuge, resuspend in 10 mL PBS.</li>
+                        <li>Centrifuge, add 10 mL sodium hyperchlorite solution and incubate at 30˚C for 1 hour.</li>
+                        <li>Centrifuge, wash with 10 mL 70% EtOH.</li>
+                        <li>Allow powder to dry.</li>
+                    </ol>
+                    <p style="color: #5c5c5c;font-size: 12px;">[1]: Shahryar Shakeri, Comparison of intracellular
+                    polyhydroxybutyrate granules formation between different bacterial cell subpopulations by flow
+                    cytometry, Jundishapur Journal of Microbiology 2011.</p>
+                    <h3>Agents formula</h3>
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="7">TB medium (1 L)</th>
+                        </tr>
+                        <tr>
+                            <td align="center">yeast extract</td>
+                            <td align="center">tryptone</td>
+                            <td align="center">K<sub>2</sub>HPO<sub>4</sub></td>
+                            <td align="center">KH<sub>2</sub>PO<sub>4</sub></td>
+                            <td align="center">Glycerol</td>
+                            <td align="center">Glucose</td>
+                            <td align="center">ddH<sub>2</sub>O</td>
+                        </tr>
+                        <tr>
+                            <td align="center">24 g</td>
+                            <td align="center">12 g</td>
+                            <td align="center">72 mM</td>
+                            <td align="center">17 mM</td>
+                            <td align="center">8 mL</td>
+                            <td align="center">2%</td>
+                            <td align="center">add to 1 L</td>
+                        </tr>
+                    </table>
+
+                    <table class="table">
+                        <tr>
+                            <th style="text-align: center" colspan="6">PBS (1 L)</th>
+                        </tr>
+                        <tr>
+                            <td align="center">NaCl</td>
+                            <td align="center">KCl</td>
+                            <td align="center">Na<sub>2</sub>HPO<sub>4</sub>·12H<sub>2</sub>O</td>
+                            <td align="center">KH<sub>2</sub>PO<sub>4</sub>·3H<sub>2</sub>O</td>
+                            <td align="center">pH</td>
+                            <td align="center">ddH<sub>2</sub>O</td>
+                        </tr>
+                        <tr>
+                            <td align="center">8 g</td>
+                            <td align="center">0.2 g</td>
+                            <td align="center">3.63 g</td>
+                            <td align="center">0.31 g</td>
+                            <td align="center">adjust to 7.4</td>
+                            <td align="center">add to 1 L</td>
+                        </tr>
+                    </table>
+                    <br />
+
+                    <h2>Fluorescence Detection</h2>
+                    <h3>Protein functional Test</h3>
+                    <ol>
+                        <li> Bacteria culturing and inducing for expression. </li>
+                        <li> Collect supernatant after ultrasonication. </li>
+                        <li>
+                            Concentrate the supernatant via ultra-filtering
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <th style="text-align: center">Protein samples</th>
+                                        <th style="text-align: center">α-Tubulin YNE</th>
+                                        <th style="text-align: center">α-tubulin-YCE</th>
+                                        <th style="text-align: center">β-tubulin</th>
+                                        <th style="text-align: center">Aggregation buffer</th>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Dosage</td>
+                                        <td align="center">75 μL</td>
+                                        <td align="center">75 μL</td>
+                                        <td align="center">150 μL</td>
+                                        <td align="center">300 μL</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <th style="text-align: center">Protein samples</th>
+                                        <th style="text-align: center">α-tubulin-YCE</th>
+                                        <th style="text-align: center">β-tubulin- YNE</th>
+                                        <th style="text-align: center">Aggregation buffer</th>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Dosage</td>
+                                        <td align="center">150 μL</td>
+                                        <td align="center">150 μL</td>
+                                        <td align="center">300 μL</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                        </li>
+                        <li> Mixed the protein samples and add proper GTP, taxol to 200uM. </li>
+                        <li> Use absolute recording spectrofluorometer with 514nm excitation. </li>
+                        <li> Record light intensity in 520nm-530nm wavelength emission. </li>
+                    </ol>
+
+                    <h3>Taxol-concentration based assay</h3>
+
+                    <ol>
+                        <li> Bacteria culturing and inducing for expression </li>
+                        <li> Collect supernatant after ultrasonication </li>
+                        <li>
+                            Concentrate the supernatant via ultra-filtering
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <th style="text-align: center">Protein samples</th>
+                                        <th style="text-align: center">α-Tubulin YNE</th>
+                                        <th style="text-align: center">α-tubulin-YCE</th>
+                                        <th style="text-align: center">β-tubulin</th>
+                                        <th style="text-align: center">Aggregation buffer</th>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Dosage</td>
+                                        <td align="center">75 μL</td>
+                                        <td align="center">75 μL</td>
+                                        <td align="center">150 μL</td>
+                                        <td align="center">300 μL</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </li>
+                        <li>
+                            Mixed the protein samples and add taxol respectively as the following table:
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td align="center">Taxol concentration (μM)</td>
+                                        <td align="center">0</td>
+                                        <td align="center">0.5</td>
+                                        <td align="center">5</td>
+                                        <td align="center">25</td>
+                                        <td align="center">50</td>
+                                        <td align="center">100</td>
+                                        <td align="center">250</td>
+                                        <td align="center">500</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </li>
+                        <li> Use absolute recording spectrofluorometer with 514nm excitation </li>
+                        <li> Record light intensity in 520nm-530nm wavelength emission. </li>
+                    </ol>
+
+                </article>
+            </div>
+        </div>
+    </div>
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.013 seconds
+Real time usage: 0.015 seconds
+Preprocessor visited node count: 55/1000000
+Preprocessor generated node count: 260/1000000
+Post‐expand include size: 463/2097152 bytes
+Template argument size: 12/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2016_igem_org:pcache:idhash:31839-0!*!*!*!*!*!* and timestamp 20161120202850 and revision id 426927
+ -->
+</div>		            <div class="visualClear"></div>
+	            </div>
+		    </div>
+
+        </div>
+
+        <!-- Side Menubar -->
+        <div id="sideMenu">
+            <a href="http://2016.igem.org">
+                <div id="home_logo" >
+                <img src="http://2016.igem.org/wiki/images/b/bf/HQ_menu_logo.jpg">
+                </div>
+            </a>
+
+            <div style="clear:both; height:5px;"></div>
+
+            <div id="menuDisplay"></div>  <!- Menu will be loaded here ->
+        </div>
+
+        <!-- Pop_Why Div is definded here -->
+        <div class="pop_why_cover"></div>
+
+        <div class="pop_why_box" >
+            <div class="pop_close">× </div>
+            <div class="pop_why_content"><h3> Loading ... </h3></div>
+        </div>
+
+    </div>
+</html>

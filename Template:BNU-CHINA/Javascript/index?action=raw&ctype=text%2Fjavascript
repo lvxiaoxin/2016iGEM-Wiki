@@ -1,0 +1,46 @@
+/**
+ * Created by lvxin on 16/9/25.
+ * Co-worked by Zitan Chen (czt95@icloud.com)
+ */
+
+
+/**----------------------------------------------
+ >>> Table of Contents:
+ ------------------------------------------------
+ 0.0 global
+ 1.0 navigation bar
+ ------------------------------------------------
+ */
+
+$(document).ready(function() {
+   
+/**
+ --  0.0 global
+ */
+
+   $('#sideMenu').hide();
+/*
+   var totalHeight = document.documentElement.clientHeight;
+   $(".page-heading").css(
+    "height", totalHeight
+);
+*/
+
+/**
+ *  1.0 navigation bar
+ */
+$(window).scroll(function () {
+    if ($(window).scrollTop() >= document.documentElement.clientHeight) {
+        $('.nav-container').addClass('scrolled-down');
+    }
+    if ($(window).scrollTop() < document.documentElement.clientHeight) {
+        $('.nav-container').removeClass('scrolled-down');
+        $('.nav-container').removeClass('scrolled-top');
+    }
+    if ($(window).scrollTop() === 0) {
+        $('.nav-container').addClass('scrolled-top');
+    }
+});
+
+$('.logo_2016').remove()
+})

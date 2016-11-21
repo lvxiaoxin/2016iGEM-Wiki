@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:BNU-China/Notebook - 2016.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2016.igem.org (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://2016.igem.org/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/Team:BNU-China/Notebook" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2016.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2016_igem_org:resourceloader:filter:minify-css:7:59593960c20e34faccc09e56269cf4e1 */</style>
+<script src="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:BNU-China/Notebook","wgTitle":"Team:BNU-China/Notebook","wgCurRevisionId":430370,"wgRevisionId":430370,"wgArticleId":3941,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:BNU-China/Notebook","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2016_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_BNU-China_Notebook skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+        <script type='text/javascript'         src ='/wiki/skins/Igem/resources/2016_skin.js'></script>
+
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('http://2016.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3ABNU-China%2FNotebook",
+							a:"View+%2FTeam%3ABNU-China%2FNotebook++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FNotebook%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FNotebook%26action%3Dhistory++Page+%2FTeam%3ABNU-China%2FNotebook++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3ABNU-China%2FNotebook%26action%3Dedit%26redlink%3D1++" });
+		</script>
+
+        <!-- Content div contains HQ_page for HQ styles, Logo and title div, and USER CONTENT -->
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+
+            <div id="top_title">
+                <div class="logo_2016">
+                    <a href="http://2016.igem.org">
+                    <img src="http://2016.igem.org/wiki/images/8/8b/HQ_page_logo.jpg" width="100px">
+                    </a>
+                </div>
+
+ 		        <h1 id="firstHeading" class="firstHeading">
+		            <span dir="auto">Team:BNU-China/Notebook</span>
+		        </h1>
+            </div>
+
+            <div id="HQ_page">
+                <div id="bodyContent">
+		            <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="iGEM 2016">
+    <meta name="author" content="Lv Xin (吕鑫),Zitan Chen(陈紫檀), Chengfei Peng(彭呈斐)">
+    <title>Team:BNU-CHINA - 2016.igem.org</title> 
+   <!-- <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/flexgrid?action=raw&amp;ctype=text/css">-->
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/reset?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fonts?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome2?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/bootstrap?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/style-index?action=raw&amp;ctype=text/css">
+     <link type="text/woff“ rel="stylesheet" href="http://2016.igem.org/wiki/images/d/d9/T--BNU-China--fontawesome.woff">
+
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/jquery?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/bootstrap?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/index?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+    <script src="http://2015.igem.org/common/MathJax-2.5-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script>
+      MathJax.Hub.Config({
+        jax: ["input/TeX","input/MathML","input/AsciiMath","output/HTML-CSS","output/NativeMML", "output/PreviewHTML"],
+        extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js", "fast-preview.js", "AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+        TeX: {
+        extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+      }
+      });
+    </script>
+  </script>
+</head>
+
+
+<body>
+<div class="header-container">
+    <nav class="navbar navbar-fixed-top navbar-inverse nav-adjust" role="navigation"  style="margin-top: 14px;">
+        <div class="container-fluid nav-container scrolled-top">
+            <!--<div id="nav-bg">-->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" id="navbar-toggle">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img id="taxolightlogo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg"/>
+                <a class="navbar-brand" id="navbar-brand" href="http://2016.igem.org/Team:BNU-China">BNU-China</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="http://2016.igem.org/Team:BNU-China" class="">Home</a></li>
+                    <li class="dropdown ">
+                        <a href="http://2016.igem.org/Team:BNU-China/Project" class="dropdown-toggle" data-toggle="dropdown">Project <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Project">Background</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Design">Design</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Proof">Results</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Description">Improvement</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modeling <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model">Introduction</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-theory">Modeling theory</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-factor">Single Factor Analysis</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-differential">Differential Equation</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-visual">Visual Simulation</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="./achievement.html" class="dropdown-toggle" data-toggle="dropdown">Achievements <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Parts">Parts</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Judging">Judging</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Practices <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Human_Practices">Schedule</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Practices">Human Practice</a></li>
+                        </ul>
+                    </li>
+                    <li class=""><a href="http://2016.igem.org/Team:BNU-China/Safety">Safety</a></li>
+                    <li class="dropdown focus">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Team#">Members</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Attributions">Attributions</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Collaborations">Collaborations</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Acknowledgement">Acknowledgement</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Notebook">Notebook</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Protocol">Protocol</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+            <!--</div>-->
+        </div><!-- /.container-fluid -->
+    </nav>
+</div>
+</body>
+
+
+<style>
+  article h2, article h3, article h4, article h5, figcaption, .reference::before {
+    color: #660000 !important;
+  }
+
+</style>
+
+</p><p>
+    <style>
+    img.week_logo {
+        height: 80px;
+        width: 80px;
+        margin-left: 3.5%;
+        float: left;
+    }
+
+    h2.week_time {
+        float: left;
+        padding-top: 19px;
+    }
+
+    div.week {
+        border-left: solid 3px #d6d6d6;
+        padding-left: 15%;
+        margin-left: 7%;
+        clear: both;
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+    </style>
+    <div class="main-container">
+        <div id="page-heading" class="container-fluid page-heading" style="background-image: url(http://2016.igem.org/wiki/images/a/a8/T--BNU-China--hand.jpg);">
+            <h3> Notebook </h3>
+        </div>
+        <div>
+            <div class="container page-story">
+                <article id="modeling"
+                         class="col-lg-10 col-lg-offset-1 col-md-12 col-md-offset-0 col-sm-offset-0 col-sm-12">
+                    <header class="page-header">
+                        <h1>Notebook</h1>
+                    </header>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.1)"/>
+                        <h2 class="week_time">Week 1</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We chose the plasmid of kit plate to transform and amplify. We designed parts by adding promoter (BBa_K206000) and RBS(BBa_B0034) to the upstream region of luciferase gene and adding prefix and suffix and we committed the GENEWIZ company to synthesize this gene.</p>
+                            <p>We gathered and summarized the data of algal bloom case in North China.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.17)"/>
+                        <h2 class="week_time">Week 2</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3> 
+                            <p>We transformed the plasmid pSB1C3 (BBa_K592009/BBa_E1010/BBa_J04450) in DH5α and proceeded amplification, extracted the plasmid and used two kinds of enzyme (EcoR I, Pst I) to digest and verify.</p>
+                            <p>We designed primers and committed the GENEWIZ company to synthesize these primers (nluc, nluc-pSB1C3, cluc, cluc-pSB1C3, β-tubulin, β-tubulin-pSB1C3, α-tubulin, α-tubulin-pSB1C3).</p>
+                            <p>We borrowed expression plasmid pET21a(+) from the lab of Yang Dong to amplify and DNA template (nluc, cluc, mcf-7, hepg-2), and we amplified these fragments (nluc, cluc, α-tubulin, β-tubulin) by PCR.</p>
+                            <h3>Dry Lab</h3>
+                            <p>We guided FAFU about modeling.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.24)"/>
+                        <h2 class="week_time">Week 3</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We designed primers about TOPO (α-tubulin-TOPO-F, β-tubulin-TOPO-F, α-pET21a(+), β-pET21a(+), nluc-pET21a(+), cluc-pET21a(+)) and committed the GENEWIZ company to synthesize these primers.</p>
+                            <p>We tested amplification products by PCR, and linked them to produce plasmids pSB1C3 and plasmids pET21a(+). Meanwhile we did topo clone.</p>
+                            <p>We did PCR amplification by using efficient polymerase, did restriction enzyme (EcoR I/Xho I) digestion and ligation about PCR products(α-TOPO, β-TOPO, α-pET21a(+), β-pET21a(+), nluc-pET21a(+), cluc-pET21a(+)).</p>
+                            <h3>Dry Lab</h3>
+                            <p>We modified basic logistic growth curve combined with specific growing environment of Algae through reviewing literatures about Algae growthing modeling.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.31)"/>
+                        <h2 class="week_time">Week 4</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p> We did PCR amplification again by using efficient polymerase of Transgen<sup>TM</sup> company, digestion and ligation. (α- pET21a(+), β-pET21a(+), nluc-pET21a(+), cluc -pET21a(+)) </p>
+                            <p> We did PCR amplification again by using efficient polymerase (primeSTAR) of TAKARA company, digestion, ligation and transformation (α-pET21a(+), β-pET21a(+), nluc-pET21a(+), cluc -pET21a(+)).</p>
+                            <p> We did bacterial colony PCR about transformation products. We inoculated 15 mL centrifuge tubes with the monoclonal colony to produce bacterium solution for plasmid extraction. </p>
+                            <p> We transformed ligation product and plasmid extraction to BL21 to express. </p>
+                            <h3>Dry Lab</h3>
+                            <p> We built differential equation model about light, CO<sub>2</sub>, mineral substance, organic substance. </p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.38)"/>
+                        <h2 class="week_time">Week 5</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We exchanged plasmid pET30a(+).</p>
+                            <p>We did PCR amplification again, digestion. We recycled gene segments following the agarose gel DNA extraction kit, then ligated.</p>
+                            <p>We inoculated 15 mL centrifuge tubes with the monoclonal colony (YNE, YCE) to produce bacterium solution for plasmid extraction, digested(YNE: Xba I/Spe I; YCE: Xho I/Sac I) and We recycled gene segments following the agarose gel DNA extraction kit, then ligated.</p>
+                            <h3>Dry Lab</h3>
+                            <p>We applied MATLAB numerical calculation for differential equation model of FAFU, discussed its practical application and deficiency through video session with FAFU team member.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.45)"/>
+                        <h2 class="week_time">Week 6</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We extracted β plasmid and did bacterial colony PCR.</p>
+                            <p>We designed primer of α, did PCR amplification again, changed cleavage sites, digested (Hind III/Xho I), ligated.</p>
+                            <p>We committed company to do sequencing about PCR products (α-pET30a(+), β-pET30a(+), nluc-pET30a(+), cluc-pET30a(+)).</p>
+                            <p>Others digested again (pET30a(+), β-pET30a(+), nluc-pET30a(+), cluc-pET30a(+)). We recycled the plasmid backbone (pET30a(+)) following the agarose gel DNA extraction kit, and gene segments following the DNA fragment purification kit, ligated, transformed, extracted plasmid, did restriction enzyme digestion and PCR to check the extracted plasmid.</p>
+                            <h3>Dry Lab</h3>
+                            <p>We discussed the application value of one-way analysis of variance for biological experiment.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.52)"/>
+                        <h2 class="week_time">Week 7</h2>
+                        <div class="week">
+                            <p>We inoculated 15 mL centrifuge tubes with the transformation product to produce bacterium solution for plasmid extraction, measured concentration through quantitated agarose gel, then did restriction enzyme digestion and PCR to check the extracted plasmid.</p>
+                            <p>We transformed ligation products on 17/8 (α-tubulin, α-hep, β-pET30(+), nluc-pET30a(+), cluc–pET30a(+)) and plasmid pET30a(+) into transB expression strain.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.59)"/>
+                        <h2 class="week_time">Week 8</h2>
+                        <div class="week">
+                            <p>We designed primer and committed company to synthesis primer. We extracted plasmid, did PCR amplification (nluc, cluc, α, β), digested (pET30a(+), α, β(Hind III/Xho I); pET30a(+), nluc, cluc(EcoR I/Xho I)), ligated, transformed.</p>
+                            <p>We planned to use MATLAB to do light intensity analysis after sample picture grey processing to match the numerical relationship between taxol concentration and light intensity of glowing.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.68)"/>
+                        <h2 class="week_time">Week 9</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We inoculated 15 mL centrifuge tubes with the transformation product to produce bacterium solution for plasmid extraction, then did PCR to check the extracted plasmid.</p>
+                            <p>We did fusion PCR, digested, ligated, transformed.</p>
+                            <h3>Dry Lab</h3>
+                            <p> We reviewed literatures about biodynamics modeling of microtubule. </p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.75)"/>
+                        <h2 class="week_time">Week 10</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>After the result of sequencing is correct, we inoculated 15 mL centrifuge tubes with the ligation product to produce bacterium solution for expression.</p>
+                            <p>We inoculated 15 mL centrifuge tubes with the transformation product to produce bacterium solution for plasmid extraction, did PCR exam. We committed company to do sequencing which has correct result (α-YNE, α-YCE, YCE-α, cluc-α, β-YNE, α-cluc, β-YCE, YCE-β). The result of α-YNE, α-YCE, YCE-α, β-YCE, YCE-β, cluc-α is correct.</p>
+                            <p>We did SDS-PAGE to test the expression protein.</p>
+                            <p>LR reaction.</p>
+                            <h3>Dry Lab</h3>
+                            <p>We studied the taxol’s influence in the dynamic assembly process.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.82)"/>
+                        <h2 class="week_time">Week 11</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We did SDS-PAGE to test the expression protein.</p>
+                            <p>We promoted parts: we extracted plasmid in kit 2 and did enzyme digestion. We chose BBa_K934001 to assemble parts by enzyme digestion, ligation, transformation and plasmid extraction and separately ligated with the Arab sugar induced promoter(BBa_10500) and the heat sensitive promoter(BBa_K873002).</p>
+                            <p>We re-did fusion PCR, and the α-nluc had the objective band. Then we sequenced gene.</p>
+                            <p>We used the product of the LR reaction β-nluc to do bacterial colony PCR, and it had a high positive rate. So we did plasmid extraction(β-nluc, cluc-β), enzyme digestion and ligation.</p>
+                            <h3>Dry Lab</h3>
+                            <p>We exchaged ideas for the development of the dynamical model microtubule dynamic instability.</p>
+                            <p>The mechanism of the taxol in the microtubules dynamic assembly process had important significance. In order to well study the taxol's influence in the dynamic assembly process, we divided into four steps on the dynamic process modeling.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.89)"/>
+                        <h2 class="week_time">Week 12</h2>
+                        <div class="week">
+                            <h3>Wet Lab</h3>
+                            <p>We assembled standard carrier: we ligated the target gene which had been assembled in pET30a(+) with pSB1C3 by PCR, enzyme digestion, and transformation. </p>
+                        </div>
+                    </div>
+
+                    <img class="week_logo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg" alt="TAXOLIGHT" style="filter: invert(0.95)"/>
+                    <div>
+                        <h2 class="week_time">Now</h2>
+                    </div>
+
+                </article>
+            </div>
+        </div>
+    </div>
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.009 seconds
+Real time usage: 0.010 seconds
+Preprocessor visited node count: 55/1000000
+Preprocessor generated node count: 260/1000000
+Post‐expand include size: 463/2097152 bytes
+Template argument size: 12/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2016_igem_org:pcache:idhash:3941-0!*!*!*!*!*!* and timestamp 20161121012515 and revision id 430370
+ -->
+</div>		            <div class="visualClear"></div>
+	            </div>
+		    </div>
+
+        </div>
+
+        <!-- Side Menubar -->
+        <div id="sideMenu">
+            <a href="http://2016.igem.org">
+                <div id="home_logo" >
+                <img src="http://2016.igem.org/wiki/images/b/bf/HQ_menu_logo.jpg">
+                </div>
+            </a>
+
+            <div style="clear:both; height:5px;"></div>
+
+            <div id="menuDisplay"></div>  <!- Menu will be loaded here ->
+        </div>
+
+        <!-- Pop_Why Div is definded here -->
+        <div class="pop_why_cover"></div>
+
+        <div class="pop_why_box" >
+            <div class="pop_close">× </div>
+            <div class="pop_why_content"><h3> Loading ... </h3></div>
+        </div>
+
+    </div>
+</html>

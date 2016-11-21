@@ -1,0 +1,242 @@
+#contentSub, #footer-box, #catlinks, #search-controls, #p-logo, .printfooter, .firstHeading,.visualClear, .center {display: none;} /*-- hides default wiki settings --*/
+
+.h1, .h2, .h3, h1, h2, h3 {
+ margin-top: 0 !important;
+}
+#top_title {
+        margin-bottom: 0!important;
+}
+
+#top_menu_under {
+        height: 0;
+}
+
+#HQ_page p {
+        font-family: "Myriad Set Pro";
+        text-align: auto !important;
+        font-size: 18px;
+        line-height: 1.45;
+        letter-spacing:0.872px;
+        font-weight: 400;
+        color: rgb(51, 51, 51);
+}
+
+#HQ_page h1,  h2, h3, h4, h5 {
+        font-family: "Myriad Set Pro";
+        font-weight: bolder;
+        letter-spacing:0.872px;
+}
+
+#HQ_page h1 {
+        font-family: "Helvetica" !important;
+}
+
+
+#HQ_page table {
+margin-left: 0 !important;
+}
+
+/*
+
+#top-section { 	
+	border: 0 none;
+	height: 14px;
+	z-index: 100;
+	top: 0;
+	position: fixed;
+	margin-left: 0px;
+}
+*/
+
+
+#globalWrapper, #content { 
+	width: 100%; 
+	height: 100%;
+	border: 0px;
+	background-color: transparent;
+	margin: 0px;
+	padding: 0px;
+}
+
+.mw-content-ltr ul {
+       margin: 0;
+}
+
+html, body, .wrapper {  
+	background-color: transparent; 	
+}
+
+#menubar ul{
+        visibility: hidden;}
+#menubar:hover ul{
+        visibility: visible;
+}
+
+#mw-content-text {
+   font-size:16px;
+}
+
+
+#mw-content-text,body {
+    background-color: transparent; 
+}
+
+#bodyContent h1 {
+   margin: 0;
+   border: 0;
+}
+
+#globalWrapper ol {
+   font-synthesis: none;
+list-style: decimal outside;
+}
+
+.mw-content-ltr ol {
+   margin: 0 0 10px 2em;
+}
+
+
+* {
+  -webkit-box-sizing: border-box;!important
+     -moz-box-sizing: border-box;!important
+          box-sizing: border-box;!important
+}
+
+
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, b, u, i, center, dl, dt, dd, , fieldset, form, label, legend {
+        overflow: visible;
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent
+}
+body {
+	line-height:1
+}
+ol, ul {
+	list-style:none
+}
+blockquote, q {
+	quotes:none
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content:none
+}
+:focus {
+	outline:0
+}
+ins {
+	text-decoration:none
+}
+del {
+	text-decoration:line-through
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0
+}
+.clear {
+	clear:both;
+	display:block;
+	overflow:hidden;
+	visibility:hidden;
+	width:0;
+	height:0
+}
+.clearfix:after {
+	clear:both;
+	content:' ';
+	display:block;
+	font-size:0;
+	line-height:0;
+	visibility:hidden;
+	width:0;
+	height:0
+}
+.clearfix {
+	display:inline-block
+}
+* html .clearfix {
+	height:1%
+}
+.clearfix {
+	display:block
+}
+th, td {
+	margin:0;
+	padding:0
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0
+}
+.clear {
+	clear: both;
+}
+br {
+	line-height: 10px;
+}
+input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner {
+ border : 0px;
+}
+input[type="submit"]:focus, input[type="button"]:focus {
+	outline : none;
+}
+
+
+
+#globalWrapper article ol {
+    margin: 0 0 16px 1.5em;
+   font-family: "Myriad Set Pro";
+        font-size: 18px;
+        line-height: 1.45;
+        letter-spacing:0.872px;
+        font-weight: 400;
+        color: rgb(51, 51, 51);
+}
+
+#globalWrapper article ol li {
+    font-weight: normal;
+       font-family: "Myriad Set Pro";
+        font-size: 18px;
+        line-height: 1.45;
+        letter-spacing:0.872px;
+        font-weight: 400;
+        color: rgb(51, 51, 51);
+}
+
+#globalWrapper article ul {
+    font-weight: normal;
+    margin: 0 0 16px 1.5em;
+    list-style: square outside;
+      font-family: "Myriad Set Pro";
+        font-size: 18px;
+        line-height: 1.45;
+        font-weight: 400;
+        color: rgb(51, 51, 51);
+-webkit-font-smoothing:antialiased;
+letter-spacing: 0;
+
+}
+
+#globalWrapper article ul li {
+    font-weight: normal;
+     font-family: "Myriad Set Pro";
+        font-size: 18px;
+        line-height: 1.45;
+        font-weight: 400;
+        color: rgb(51, 51, 51);
+-webkit-font-smoothing:antialiased;
+letter-spacing: 0;
+
+}
+
+.math>span+span {
+    opacity: 0;
+}

@@ -1,0 +1,893 @@
+/**----------------------------------------------
+ >>> Table of Contents:
+ ------------------------------------------------
+ 0.0 global
+ 1.0 main-container
+ 2.0 page-heading
+ 3.0 navigation
+ 4.0 page-story
+ 5.0 team-page
+ 6.0 achievements-page
+ 7.0 attributions
+ 8.0 practices
+ 9.0 footer
+10.0 Acknowledge
+11.0 reference
+ ------------------------------------------------
+*/
+/**
+--  0.0 global
+*/
+
+.header-color {
+  background: #ffffff;
+  color: #646464;
+}
+
+
+/**
+--  1.0 main-container
+*/
+.main-container {
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  overflow: auto;
+  position: absolute;
+}
+
+/**
+--  2.0 page-heading
+*/
+.page-heading {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center center;
+  text-align: center !important;
+  /*text-transform: uppercase;*/
+  background-color: black;
+  height: 100vh;
+}
+
+@media (min-width: 768px) {
+  .page-heading {
+    background-size: cover !important;
+    display: flex;
+  }
+}
+
+@media(max-width: 768px) {
+ .page-heading {
+  background-size: 0 !important;
+}
+}
+
+.page-heading h3 {
+  color: #ffffff;
+  font-weight: 200;
+  margin-top: -1em;
+  letter-spacing: -0.83200;
+  line-height: 56px;
+  font-size: 12vw;
+  font-family: 'Dancing Script', serif;
+  margin: 0;
+}
+
+
+
+/**
+--  3.0 navigation
+*/
+
+
+@media screen and (max-width: 750px) {
+  .navbar-nav {
+    background: #333;
+  }
+}
+
+
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background: rgba(8, 8, 8, 0.5);
+}
+
+@media screen and (min-width: 1024px) {
+  .nav-container, .nav-adjust {
+    /*background: black;*/
+    /*position: relative;*/
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 0;
+    transition: all 0.3s ease-in-out;
+    height: 44px;
+  }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+  .nav-container, .nav-adjust {
+    /*background: #333;*/
+    /*position: relative;*/
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 0;
+    transition: all 0.3s ease-in-out;
+    height: 44px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .nav-container, .nav-adjust {
+    background: #333;
+    /*position: relative;*/
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 0;
+    transition: all 0.3s ease-in-out;
+    height: 44px;
+  }
+}
+
+#taxolightlogo {
+  height: 50px;
+  width: 50px;
+  float: left;
+  /*margin-left: 10px;*/
+}
+
+#navbar-brand {
+  padding-top: 17px;
+  color: white;
+  font-weight: 400;
+  position: absolute;
+  font-family: 'Myriad Set Pro nav', serif;
+}
+
+#navbar-toggle {
+  /*margin: 15px;*/
+}
+
+/*.nav-adjust .scrolled-down {*/
+/*background: black;*/
+/*border: 0;*/
+/*opacity: 0.9;*/
+/*transition: all 0.3s ease-in-out;*/
+/*}*/
+
+/*.nav-adjust .scrolled-top {*/
+/*background: black;*/
+/*border: 0;*/
+/*opacity: 0.8;*/
+/*transition: all 0.3s ease-in-out;*/
+/*}*/
+
+#bs-example-navbar-collapse-1 {
+  padding: 0;
+  /*margin: 7px 0;*/
+}
+
+@media screen and (min-width: 768px) {
+  .navbar {
+    background: rgba(51, 51, 51, .75);
+  }
+}
+
+.nav-adjust > .nav-container div > ul > li > a, .navbar-brand a,
+.navbar-inverse .navbar-nav > li > a:focus {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  /*opacity: 0.9;*/
+  opacity: 1;
+  /*transition: all 0.2s ease-in-out;*/
+  transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+  font-family: 'Myriad Set Pro nav', serif;
+}
+
+@media screen and (min-width: 1024px) {
+  .nav-adjust > .nav-container div > ul > li > a, .navbar-brand a,
+  .navbar-inverse .navbar-nav > li > a:focus {
+    margin: auto 0 auto 15px;
+    padding-top: 17px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .nav-adjust > .nav-container div > ul > li > a, .navbar-brand a,
+  .navbar-inverse .navbar-nav > li > a:focus {
+    margin: auto 0 auto -10px;
+    padding-top: 17px;
+    /*background: red;*/
+  }
+}
+
+.nav-adjust > .nav-container div > ul > li.focus > a {
+  color: white;
+  opacity: 1;
+  /*transition: all 0.5s ease-in-out;*/
+  font-weight: 400;
+}
+
+/*.nav-adjust .scrolled-down div > ul > li.focus > a {*/
+/*color: white;*/
+/*font-weight: 300;*/
+/*opacity: 1;*/
+/*transition: all 0.2s ease-in-out;*/
+/*}*/
+
+li.dropdown.open ul {
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+  transition: all 0.2s ease-in-out;
+  /*height: 30px;*/
+}
+
+li.dropdown.open ul li a {
+  color: #b0b0b0;
+  transition: all 0.2s ease-in-out;
+  font-weight: 300;
+  height: 30px;
+  font-family: 'Myriad Set Pro nav', serif;
+}
+
+li.dropdown.open ul:hover {
+  background: #151515;
+  transition: all 0.2s ease-in-out;
+}
+
+li.dropdown.open ul:hover li a {
+  filter: blur(1px);
+  transition: all 0.5s ease-in-out;
+  font-weight: 300;
+}
+
+li.dropdown.open ul:hover li a {
+  filter: blur(1px);
+  transition: all 0.5s ease-in-out;
+  font-weight: 300;
+}
+
+li.dropdown.open ul li a:hover {
+  background: black;
+  color: #e9e9e9;
+  text-shadow: none;
+  filter: none;
+  transition: all 0.2s ease-in-out;
+  height: 40px;
+}
+
+/**
+--  4.0 page-story
+*/
+
+#named-anchor {
+  padding-top: 100px;
+}
+
+#named-anchor {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-story {
+  padding-bottom: 30px;
+  background-color: white;
+  margin: 0;
+}
+
+.page-story::before {
+  display: table;
+  content: " ";
+}
+
+@media screen and (min-width: 920px) {
+  .page-story {
+    padding-left: 137px;
+    padding-right: 137px;
+  }
+}
+
+.page-story > article {
+  background-color: white;
+  /*box-shadow: 0 4px 6px rgba(75, 75, 75, 0.5);*/
+  padding: 32px 0;
+}
+
+article {
+  margin: 40px 0;
+  overflow-x: hidden;
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .page-story > article {
+    padding: 32px 64px;
+  }
+
+}
+
+@media screen and (max-width: 768px) and (min-width: 641px) {
+  .page-story > article {
+    padding: 16px 32px;
+  }
+
+}
+
+@media screen and (max-width: 640px) {
+  .page-story > article {
+    padding: 16px 32px;
+    margin: -15px;
+  }
+
+}
+
+article > header.page-header {
+  text-align: center !important;
+  border: none;
+}
+
+.page-header {
+  margin: 40px 0;
+}
+
+article[id="achievement"] a {
+  color: #278A75;
+}
+
+article[id="achievement"] h2,
+article[id="achievement"] h3,
+article[id="achievement"] h4,
+article[id="achievement"] h5 {
+  color: #D3853D
+}
+
+article[id="project"] a,
+article[id="project"] h2,
+article[id="project"] h3,
+article[id="project"] h4,
+article[id="project"] h5 {
+  color: #8c7e01;
+}
+
+article[id='modeling'] a,
+article[id='modeling'] h2,
+article[id='modeling'] h3,
+article[id='modeling'] h4,
+article[id='modeling'] h5 {
+  color: #278f45;
+}
+
+article[id='practices'] a,
+article[id='practices'] h2,
+article[id='practices'] h3,
+article[id='practices'] h4,
+article[id='practices'] h5 {
+  color: #308276;
+}
+
+article[id='safety'] a,
+article[id='safety'] h2,
+article[id='safety'] h3,
+article[id='safety'] h4,
+article[id='safety'] h5 {
+  color: #308276;
+}
+
+article[id="modeling"] a,
+article[id="modeling"] h2,
+article[id="modeling"] h3,
+article[id="modeling"] h4,
+article[id="modeling"] h5 {
+  color: #278f45;
+}
+
+article h2,
+article h3,
+article h4,
+article h5 {
+  font-weight: 500;
+}
+
+article > header.page-header h1 {
+  font-weight: bolder;
+  font-size: 6vw;
+  text-transform: uppercase;
+}
+
+#secondary-page-header {
+  display: block;
+  margin: 12px 0;
+  font-size: 24px;
+  color: #777777;
+}
+
+article a {
+  text-decoration: none;
+}
+
+article a:visited:hover {
+  color: #D3853D;
+}
+
+article a:visited {
+  color: #278A75;
+}
+
+article a:hover {
+  color: #D3853D;
+  text-decoration: none;
+}
+
+article h2 {
+  font-size: 36px;
+  margin-bottom: 16px !important;
+  /* border-bottom: 1px solid #eee;*/
+}
+
+article h3 {
+  font-size: 24px;
+}
+
+article p,
+article blockquote {
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+article ol {
+  font-weight: normal;
+  margin: 0 0 16px 1.5em;
+  list-style: decimal outside;
+}
+
+article ol li {
+  font-weight: normal;
+}
+
+figcaption {
+  font-size: 18px;
+}
+
+article figure {
+  padding: 16px 0;
+}
+
+article figure {
+  max-width: 100%;;
+}
+
+article figure figcaption {
+  text-align: center;
+  color: #278A75;
+  padding: 8px;
+}
+
+article video {
+  max-width: 100% !important;
+  height: auto !important;
+  background-color: #000;
+  background-size: 100% 100%;
+  display: block;
+  margin: 25px auto;
+}
+
+.reference {
+  padding: 16px 0 0 0;
+  border-top: 1px solid #eee;
+  font-family: 'Myriad Set Pro', serif;
+}
+
+div.reference:before {
+  color: #278A75;
+  font-size: 21px;
+  content: "Reference";
+  line-height: 16px;
+
+}
+
+#globalWrapper .reference > ol, .reference > ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  counter-reset: counter;
+}
+
+div.reference > ol li {
+  font-style: 12px;
+  line-height: 16px;
+  color: rgb(102, 102, 102);
+  margin: 6px 0;
+}
+
+div.reference > ol li:before {
+  content: '[' counter(counter) ']';
+  counter-increment: counter;
+  display: inline-block;
+  margin-right: 4px;
+}
+
+/**
+--  5.0 team-page
+*/
+
+.self-introduction .info-sec {
+  font-size: 22px !important;
+}
+
+#team {
+  /*margin: 30px auto;*/
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+
+.team-header h3 {
+  margin: 20px auto 20px auto;
+  text-align: center !important;
+  font-weight: 100;
+  font-size: 6vw;
+}
+
+.team-header p {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  text-align: center !important;
+  color: #adbabb;
+}
+
+#team-secondary {
+  font-size: 28px !important;
+}
+
+#myTab {
+  margin-bottom: 30px;
+}
+
+#team .team-figure {
+  cursor: pointer;
+  margin: 0;
+  padding: 0 !important;
+  z-index: 90 !important;
+}
+
+.team-figure .pic {
+  background-size: cover;
+  min-height: 438px;
+  transition: all 1.5s;
+
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -ms-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 0s;
+  -moz-animation-duration: 0s;
+  -ms-animation-duration: 0s;
+  -o-animation-duration: 0s;
+  animation-duration: 0s;
+  -webkit-animation-duration: 0.7s;
+  -moz-animation-duration: 0.7s;
+  -ms-animation-duration: 0.7s;
+  -o-animation-duration: 0.7s;
+  animation-duration: 0.7s;
+  display: block;
+  /*margin:5px 0 7px 5px;*/
+  /*padding:3px;*/
+}
+
+.team-intro {
+  min-height: 438px;
+}
+
+.self-introduction {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.right {
+  padding-right: 30px;
+  text-align: left !important;
+}
+
+.right > p {
+  text-align: left !important;
+
+}
+
+.left {
+  padding-left: 30px;
+  text-align: left !important;
+}
+
+.left p {
+  text-align: left !important;
+}
+
+.self-introduction h3 {
+  margin: 10px auto;
+  font-weight: 100;
+  font-size: 32px;
+}
+
+.self-introduction h3 > p {
+  font-size: 26px;
+}
+
+.self-introduction p {
+  margin: 10px auto;
+  color: #adbabb;
+  font-size: 16px !important;
+}
+
+@keyframes swing {
+  20% {
+    transform: rotate(15deg);
+  }
+  40% {
+    transform: rotate(-10deg);
+  }
+  60% {
+    transform: rotate(5deg);
+  }
+  80% {
+    transform: rotate(-5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.team-figure .pic:hover,
+.team-figure:hover > .pic {
+  -webkit-transform-origin: top center;
+  -moz-transform-origin: top center;
+  -o-transform-origin: top center;
+  transform-origin: top center;
+  -webkit-animation-name: swing;
+  -moz-animation-name: swing;
+  -o-animation-name: swing;
+  animation-name: swing;
+}
+
+/**
+--  6.0 Achievements-page
+*/
+
+.panel-info {
+  border-radius: 0;
+  border-color: #dedede;
+}
+
+.panel-info .panel-heading {
+  border-color: #dedede;
+  background-color: #dedede;
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+}
+
+.panel-heading img {
+  height: 32px;
+  width: auto;
+}
+
+.panel-info.bronze {
+  border-color: #DA8D41;
+}
+
+.panel-info.bronze > .panel-heading {
+  background-color: #DA8D41;
+  border-color: #DA8D41;
+}
+
+.panel-info.sliver {
+  border-color: #dedede;
+}
+
+.panel-info.sliver > .panel-heading {
+  background-color: #dedede;
+  border-color: #dedede;
+}
+
+.panel-info.gold {
+  border-color: #ffdb76;
+}
+
+.panel-info.gold > .panel-heading {
+  background-color: #ffdb76;
+  border-color: #ffdb76;
+}
+
+span.medal {
+  margin-left: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 1.5em;
+}
+
+/**
+--  7.0 attributions
+*/
+
+.panel-group .panel {
+  border-radius: 0;
+  margin: 0 0 16px 0;
+  line-height: 24px;
+}
+
+.panel-info.attributions {
+  border-color: #f0d5ae;
+}
+
+.panel-info.attributions > .panel-heading {
+  background-color: #f0d5ae;
+  border-color: #f0d5ae;
+}
+
+/**
+--  8.0 practice
+*/
+
+#feedback-img1,
+#feedback-img3 {
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#feedback-img2 {
+  float: right;
+}
+
+#feedback-p1 {
+  clear: right;
+}
+
+#feedback-p3 {
+  clear: right;
+}
+
+div#practice {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-image: url(http://2016.igem.org/wiki/images/3/39/T--BNU-China--sky.jpg);
+}
+
+#practice img {
+  height: 62%;
+  width: 100%;
+}
+
+#practice-heading {
+  padding-bottom: 50vh;
+}
+
+div.practice-link-left {
+  position: absolute;
+  font-size: 1.5vw;
+  left: 26%;
+  top: 60%;
+}
+
+div.practice-link-right {
+  position: absolute;
+  font-size: 1.5vw;
+  left: 50%;
+  top: 60%;
+}
+
+div.practice-link-left > a,
+div.practice-link-right > a {
+  font-family: 'lucida', serif;
+  text-decoration: none;
+  color: white;
+}
+
+#practice div.practice-main {
+  display: inline-block;
+  position: relative;
+}
+
+.wrapper img {
+  width: 100%;
+  margin-top: -4px;
+}
+
+/**
+--  9.0 footer
+*/
+
+#footer,
+#footer a {
+  color: #999;
+  text-decoration: none;
+}
+
+#footer {
+  clear: both;
+  text-align: right;
+}
+
+#footer-div {
+  padding: 20px 15px;
+  border-top: 1px solid #ccc;
+  width: 80%;
+  margin: 0 auto;
+  clear: both;
+}
+
+#footer-div:before,
+#footer-div:after {
+  display: table;
+  content: "";
+}
+
+#footer-ul,
+#footer li {
+  display: inline;
+}
+
+#footer li {
+  list-style: none;
+}
+
+#footer-div span {
+  float: left;
+}
+
+#footer-div li + li::before {
+  color: rgb(187, 187, 187);
+  padding: 0 3px;
+}
+
+h1, h2, h3, h4, h5 {
+  padding: 0 !important;
+  overflow: visible !important;
+}
+
+/**
+--  10.0 acknowledge
+*/
+/*
+center h5 {
+ margin-bottom: 20px !important;
+}
+
+center p {
+line-height: 1.4;
+}
+*/
+.MathJax_Display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+}
+
+article {
+  max-width: 100vw;
+}
+
+
+/**
+--  11.0 reference
+*/
+
+.reference {
+ font-family: 'Myriad Set Pro nav', serif;
+ font-size: 14px !important;
+ color: rgb(153,153,153) !important ;
+ line-height: 1.375 !important;
+}

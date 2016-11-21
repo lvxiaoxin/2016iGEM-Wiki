@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:BNU-China/Proof - 2016.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2016.igem.org (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://2016.igem.org/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/Team:BNU-China/Proof" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2016.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2016_igem_org:resourceloader:filter:minify-css:7:59593960c20e34faccc09e56269cf4e1 */</style>
+<script src="http://2016.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:BNU-China/Proof","wgTitle":"Team:BNU-China/Proof","wgCurRevisionId":432476,"wgRevisionId":432476,"wgArticleId":3938,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:BNU-China/Proof","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2016_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_BNU-China_Proof skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+        <script type='text/javascript'         src ='/wiki/skins/Igem/resources/2016_skin.js'></script>
+
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('http://2016.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3ABNU-China%2FProof",
+							a:"View+%2FTeam%3ABNU-China%2FProof++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FProof%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3ABNU-China%2FProof%26action%3Dhistory++Page+%2FTeam%3ABNU-China%2FProof++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3ABNU-China%2FProof%26action%3Dedit%26redlink%3D1++" });
+		</script>
+
+        <!-- Content div contains HQ_page for HQ styles, Logo and title div, and USER CONTENT -->
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+
+            <div id="top_title">
+                <div class="logo_2016">
+                    <a href="http://2016.igem.org">
+                    <img src="http://2016.igem.org/wiki/images/8/8b/HQ_page_logo.jpg" width="100px">
+                    </a>
+                </div>
+
+ 		        <h1 id="firstHeading" class="firstHeading">
+		            <span dir="auto">Team:BNU-China/Proof</span>
+		        </h1>
+            </div>
+
+            <div id="HQ_page">
+                <div id="bodyContent">
+		            <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="iGEM 2016">
+    <meta name="author" content="Lv Xin (吕鑫),Zitan Chen(陈紫檀), Chengfei Peng(彭呈斐)">
+    <title>Team:BNU-CHINA - 2016.igem.org</title> 
+   <!-- <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/flexgrid?action=raw&amp;ctype=text/css">-->
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/reset?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fonts?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome?action=raw&amp;ctype=text/css">
+     <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/fontawesome2?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/bootstrap?action=raw&amp;ctype=text/css">
+    <link type="text/css" rel="stylesheet" href="http://2016.igem.org/Template:BNU-CHINA/CSS/style-index?action=raw&amp;ctype=text/css">
+     <link type="text/woff“ rel="stylesheet" href="http://2016.igem.org/wiki/images/d/d9/T--BNU-China--fontawesome.woff">
+
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/jquery?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/bootstrap?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/javascript" src="http://2016.igem.org/Template:BNU-CHINA/Javascript/index?action=raw&amp;ctype=text/javascript"></script>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+    <script src="http://2015.igem.org/common/MathJax-2.5-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script>
+      MathJax.Hub.Config({
+        jax: ["input/TeX","input/MathML","input/AsciiMath","output/HTML-CSS","output/NativeMML", "output/PreviewHTML"],
+        extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js", "fast-preview.js", "AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+        TeX: {
+        extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+      }
+      });
+    </script>
+  </script>
+</head>
+
+
+<body>
+<div class="header-container">
+    <nav class="navbar navbar-fixed-top navbar-inverse nav-adjust" role="navigation"  style="margin-top: 14px;">
+        <div class="container-fluid nav-container scrolled-top">
+            <!--<div id="nav-bg">-->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" id="navbar-toggle">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img id="taxolightlogo" src="http://2016.igem.org/wiki/images/7/77/T--BNU-China--log.jpg"/>
+                <a class="navbar-brand" id="navbar-brand" href="http://2016.igem.org/Team:BNU-China">BNU-China</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="http://2016.igem.org/Team:BNU-China" class="">Home</a></li>
+                    <li class="dropdown ">
+                        <a href="http://2016.igem.org/Team:BNU-China/Project" class="dropdown-toggle" data-toggle="dropdown">Project <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Project">Background</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Design">Design</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Proof">Results</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Description">Improvement</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modeling <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model">Introduction</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-theory">Modeling theory</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-factor">Single Factor Analysis</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-differential">Differential Equation</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Model#model-visual">Visual Simulation</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="./achievement.html" class="dropdown-toggle" data-toggle="dropdown">Achievements <span
+                                class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Parts">Parts</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Achievements#Judging">Judging</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Practices <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Human_Practices">Schedule</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Practices">Human Practice</a></li>
+                        </ul>
+                    </li>
+                    <li class=""><a href="http://2016.igem.org/Team:BNU-China/Safety">Safety</a></li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team <span
+                                class="caret" ></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Team#">Members</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Attributions">Attributions</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Collaborations">Collaborations</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Acknowledgement">Acknowledgement</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Notebook">Notebook</a></li>
+                            <li><a href="http://2016.igem.org/Team:BNU-China/Protocol">Protocol</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+            <!--</div>-->
+        </div><!-- /.container-fluid -->
+    </nav>
+</div>
+</body>
+
+
+<style>
+  article h2, article h3, article h4, article h5, figcaption, .reference::before {
+    color: #003a6c !important;
+  }
+
+</style>
+
+
+<div class="main-container">
+    <div class="container-fluid page-heading"
+         style="background-image: url(http://2016.igem.org/wiki/images/f/f4/T--BNU-China--project.jpg);">
+        <h3> Results </h3>
+    </div>
+    <div>
+        <div class="page-story">
+            <article id="project" class="col-lg-10 col-lg-offset-1 col-md-12 col-md-offset-0 col-sm-offset-0 col-sm-12">
+                <header class="page-header">
+                    <h1>Results</h1>
+                </header>
+
+                <h2>Vector Construction</h2>
+                <h3>Vectors of α-tubulin, β-tubulin, n-luciferase, c-luciferase</h3>
+                <p>Gene fragments of α-tubulin, β-tubulin, n-luciferase, c-luciferase were amplified via PCR and
+                    verified
+                    by electrophoresis(Fig.1). The theoretic gene size of α-tubulin is 1356bp, β-tubulin is 1335bp,
+                    n-luciferase is 1248bp, c-luciferase is 459bp, which matched our experimental results.</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/3/3b/T--BNU-China--Results9.jpg" width="65%">
+                    <figcaption>
+                        Fig.1 Electrophoresis result of α-tubulin, β-tubulin, n-luciferase, c-luciferase gene fragments
+                    </figcaption>
+                </figure>
+
+                <p>Gene fragments were ligated to <i>E.coli</i> expression plasmid pET30a(+), after transformation,
+                    colony PCR was done to verify the efficiency(Fig.2A and 2B). Meanwhile, the sequencing results
+                    further confirmed that we successfully cloned the α-tubulin, β-tubulin, n-luciferase, c-luciferase
+                    expression vectors.</p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/c/c0/T--BNU-China--Results5.jpg" width="88%">
+                    <figcaption>
+                        Fig.2 Electrophoresis result of α-tubulin, β-tubulin, n-luciferase, c-luciferase expression
+                        vectors
+                        <br/>
+                        <small style="font-size:80%">(A: electrophoresis result of colony PCR. The arrows show the
+                            correct sizes of α-tubulin, n-luciferase and c-luciferase. <br/>B: electrophoresis result of
+                            colony PCR. The arrows show the correct size of β-tubulin.
+                        </small>
+                    </figcaption>
+                </figure>
+
+
+                <h3>Fusion Protein Vectors</h3>
+                <h4>By fusion PCR technology</h4>
+                <p>
+                    α-tubulin-YNE, YNE-α-tubulin, α-tubulin-YCE, YCE-α-tubulin, β-tubulin-YNE, YNE-β-tubulin,
+                    β-tubulin-YCE, YCE-β-tubulin, α-tubulin-nluc, nluc-α-tubulin, α-tubulin-cluc and cluc-α-tubulin were
+                    cloned respectively via fusion PCR. After ligating these fusion gene fragments to pET30a(+) empty
+                    vectors, we transformed the target plasmids to Trans5α. When colony PCR was done for screening, we
+                    picked correct colonies shown in electrophoresis gel(Fig.3) for plasmid amplification.
+                </p>
+
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/b/b9/T--BNU-China--Results6.jpg" width="75%">
+                    <figcaption>
+                        Fig.3 Result of colony PCR
+                        <br/>
+                        <small style="font-size:80%">Arrows show the correct size of fusion gene fragments:
+                            α-tubulin-YNE is 1866 bp, α-tubulin-YCE is 1650bp, β-tubulin-YCE is 1629bp,
+                            α-tubulin-nluc is 2640bp, α-tubulin-cluc is 1857bp.
+                        </small>
+                    </figcaption>
+                </figure>
+
+                <P>Sequencing results further confirmed that α-tubulin-YNE, YNE-α-tubulin, α-tubulin-YCE, YCE-α-tubulin,
+                    β-tubulin-YCE, YCE-β-tubulin, α-tubulin-nluc and cluc-α-tubulin expression vectors were constructed
+                    successfully.</P>
+
+                <h4>By Gateway Technology</h4>
+                <p>We also tried to construct fusion protein vectors by Gateway Large-scale Cloning technology. We used
+                    Invitrogen pENTR/D TOPO to clone β-tubulin into entry vector. Primers were designed based on
+                    β-tubulin sequence and PCR was done for verification. Electrophoresis result (Fig.4) showed that
+                    β-tubulin was successfully cloned into the entry vector.</p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/6/63/T--BNU-China--Results14.jpg" width="65%">
+                    <figcaption>
+                        Fig.4 PCR verification result of the constructed entry vectors
+                    </figcaption>
+                </figure>
+                <p>In order to do LR reaction, we used the restriction endonuclease Not I to digest the entry vector.
+                    Electrophoresis result (Fig.5) showed that single digestion was efficient.</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/2/2e/T--BNU-China--Results4.jpg" width="25%">
+                    <figcaption>
+                        Fig.5 Single endonuclease digestion result of entry vectors
+                    </figcaption>
+                </figure>
+                <p>Using Invitrogen Gateway LR Clonase II Enzyme Mix, the entry vectors were ligated with
+                    pCambia1300-nluc and pCambia1300-cluc respectively. Thus the destination vectors were complete.
+                    After transformation and running PCR with β-tubulins primers, electrophoresis result (Fig.6) showed
+                    high positive rates, indicating β-tubulins was successfully cloned into the vectors.</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/d/d3/T--BNU-China--Results10.jpg" width="90%">
+                    <figcaption>
+                        Fig.6 PCR verification result of the objective vectors
+                    </figcaption>
+                </figure>
+
+                <p>Also, signaling fragments were also needed to be tested. By using the reverse primer of β-tubulin and
+                    the forward primer of cluc for PCR verification, we found that cluc-β-tubulin fusion protein vector
+                    is successfully constructed. Electrophoresis result is shown in Fig.7.</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/0/07/T--BNU-China--Results11.jpg" width="70%">
+                    <figcaption>
+                        Fig.7 PCR verification result of pCambia-nluc, pCambia-cluc
+                        <br/>
+                        <small style="font-size:80%">Arrows show the correct bands</small>
+                    </figcaption>
+                </figure>
+
+                <p>In conclusion, we successfully cloned nine fusion protein vectors. α-tubulin-YNE, YNE-α-tubulin,
+                    α-tubulin-YCE, YCE-α-tubulin, β-tubulin-YCE, YCE-β-tubulin, α-tubulin-nluc, and cluc-α-tubulin were
+                    ligated to pET30(+) . β-tubulin was cloned to pCambia-cluc plasmid as a form of cluc-β-tubulin
+                    fusion protein vector.</p>
+                <h2>Protein Expression</h2>
+                <h3>In TransB(DE3) <i>E.coli</i> expression strain</h3>
+                <p>Expression vectors were transformed into <i>E.coli</i> expression strain TransB(DE3). After
+                    culturing,
+                    we firstly tested the effect of IPTG inducement. β-tubulin was taken as an example. SDS-PAGE(Fig.8)
+                    showed that IPTG is very significant in the expressing process.</p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/7/75/T--BNU-China--Result25.jpg" width="60%">
+                    <figcaption>
+                        Fig.8 SDS-PAGE result of β-tubulin inducement test (left to right: non-induced group, induced
+                        group), arrow shows the correct molecular weight of target protein(55 kDa)<br/>
+                        <small style="font-size:80%">the molecular weight of target fusion protein is 74.6kDa.
+                            arrows show the correct bands.
+                        </small>
+                    </figcaption>
+                </figure>
+
+                <p>Then we checked the protein expression predicted website <i>http://www.biotech.ou.edu/</i>. It showed
+                    that
+                    our fusion protein would probably expressed as inclusion bodies. We therefore renatured the
+                    inclusion bodies and verified through SDS-PAGE(Fig.9).</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/a/a0/T--BNU-China--Results7.jpg" width="60%">
+                    <figcaption>
+                        Fig.9 SDS-PAGE of renatured inclusion bodies from α-tubulin-YNE, YNE-α-tubulin
+                        <br/>
+                        <small style="font-size:80%">the molecular weight of target fusion protein is 74.6kDa.
+                            arrows show the correct bands.
+                        </small>
+                    </figcaption>
+                </figure>
+                <p>Also, western-blot(Fig.10) were done to test the protein from supernatant, pellet and renatured
+                    inclusion body.</p>
+                <figure class="text-center" id="ref-1">
+                    <img src="http://2016.igem.org/wiki/images/6/61/T--BNU-China--result20.jpg" width="80%">
+                    <figcaption>
+                        Fig.10 Western blot result of prokaryotic expression
+                        <br/>
+                        <small style="font-size:80%"> Left to right, extracted α-tubulin, expressed empty vector,
+                            α-tubulin，α-tubulin-YNE fusion protein, α-tubulin-YCE fusion protein, α-tubulin-nluc fusion
+                            protein. Arrows show the correct bands of target proteins, triangles show the homologous
+                            tubulin protein(FtsZ,43kDa) from the bacteria.
+                        </small>
+                    </figcaption>
+                </figure>
+                <h3>In Rossatta(DE3) <i>E.coli</i> expression strain</h3>
+
+                <p>Rossatta(DE3) is a kind of <i>E.coli</i> strain that can express rare codons and improve the
+                    expression level of eukaryotic protein. Thus we applied this strain to optimize our protein
+                    expression.</p>
+                <p>SDS-PAGE were done to verify the expression results before(Fig.11) and after(Fig.12) breaking the
+                    bacteria, and Western blot(Fig.13) was also applied for the further confirmation.</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/3/3c/T--BNU-China--Results19.jpg" width="100%">
+                    <figcaption>
+                        Fig.11 SDS-PAGE of centrifuged cells before ultrasonic breaking.
+                        <br/>
+                        <small style="font-size:80%">A: cluc-α-tubulin(74 kDa), α-tubulin-nluc, YCE-β-tubulin(66
+                            kDa), β-tubulin-YCE(66 kDa), YCE-α-tubulin(66 kDa), α-tubulin-YCE(66 kDa), expressed
+                            empty vector. <br/>B: left to right: expressed empty vector, α-tubulin(55 kDa),
+                            β-tubulin(55 kDa), α-tubulin-YNE(75kDa), YNE-α-tubulin(75kDa).<br/>Arrows show the correct
+                            bands.
+                        </small>
+                    </figcaption>
+                </figure>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/a/a9/T--BNU-China--result21.jpg" width="70%">
+                    <figcaption>
+                        Fig.12 SDS-PAGE of supernatant after ultrasonic breaking the rossatta cells
+                        <br/>
+                        <small style="font-size:80%"> Left to right: expressed empty vector, α-tubulin(55 kDa),
+                            β-tubulin(55 kDa), α-tubulin-YNE(75kDa), YNE-α-tubulin(75kDa), α-tubulin-YCE(66 kDa),
+                            YCE-α-tubulin(66 kDa), β-tubulin-YCE(66 kDa), YCE-β-tubulin(66 kDa), α-tubulin-nluc,
+                            cluc-α-tubulin(74 kDa)
+                        </small>
+                    </figcaption>
+                </figure>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/a/af/T--BNU-China--Result26.jpg" width="70%">
+                    <figcaption>
+                        Fig.13 Western blot of rossatta cells expression.
+                        <br/>
+                        <small style="font-size:80%"> A: left to right, protein marker, negative control, α-tubulin in
+                            pellet(55 kDa), α-tubulin-YNE in pellet(75kDa), α-tubulin-YCE in pellet (66 kDa),
+                            YCE-α-tubulin in pellet (66 kDa), cluc-α-tubulin in pellet (74 kDa), extracted α-tubulin(55
+                            kDa). B: left to right: negative control in pellet, β-tubulin in pellet(55 kDa),
+                            β-tubulin-YCE in pellet (66 kDa), protein marker, negative control in supernatant, β-tubulin
+                            in supernatant (55 kDa), β-tubulin-YCE in supernatant (66 kDa), extracted β-tubulin(55 kDa).
+                        </small>
+                    </figcaption>
+                </figure>
+                <p>Based on the results above, we could confirm that α-tubulin, β-tubulin, α-tubulin-YNE, YNE-α-tubulin,
+                    α-tubulin-YCE, YCE-α-tubulin, β-tubulin-YCE, YCE-β-tubulin, cluc-α-tubulin fusion protein were
+                    successfully expressed in rossatta cell.</p>
+                <p>Particularly, according to figure 7B, the target proteins (β-tubulin and β-tubulin-YCE) can be tested
+                    out in the supernatant, indicating that they are soluble when expressed in rossatta strain.</p>
+                <p>We collaborated with Fujian Agriculture and Forest University and asked them to test the interaction
+                    between α and β-tubulin. Thus verified the activity of tubulin monomers.</p>
+
+                <h2>Fluorescence detection</h2>
+                <h3>Protein functional test</h3>
+                <p>In order to make sure the protein expressed from prokaryotic cells had their functions. We did a
+                    functional test at first. Concentrated supernatant of α-tubulin-YNE and α-tubulin-YCE were mixed
+                    equally and treated with twice as much as the supernatant of β-tubulin. 50μM GTP and 200μM taxol
+                    were also added for helping aggregation. After incubated in 37℃ for 1 hour，the mixture was tested by
+                    the absolute recording spectrofluorometer. The result(Fig.14) showed there was a significant
+                    emission peak in 525nm with the excitation in near 512nm wave length, indicating that YCE and YNE
+                    protein fragments were combined as a whole YFP and thus verifying their biological functions <i>in
+                        vitro</i>.</p>
+                <p>Also, equally mixed α-tubulin-YNE and β-tubulin-YCE treated with 50μM GTP and 200μM taxol indicated
+                    the existed α-β tubulin interaction and the YNE-YCE combination.</p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/c/c3/T--BNU-China--results28.jpg" width="70%">
+                    <figcaption>
+                        Fig.14 Fluorescence intensity - Wave length diagram <br/>
+                    </figcaption>
+                </figure>
+
+                <h3>Taxol-concentration based assay</h3>
+                <p>After protein functions were confirmed, we further tested the microtubule aggregation level by
+                    treating serial concentration of taxol samples. Since the excess amount of substrate proteins
+                    (α-tubulin-YNE, α-tubulin-YCE and β-tubulin) were treated. The aggregation level could be
+                    represented by the fluorescence intensity. The experimental results (Fig.15 Table 1) showed that
+                    there is an obvious positive correlation between taxol concentration and fluorescence intensity when
+                    the substrate proteins are abundant.</p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/e/ed/T--BNU-China--results-fluoro.png" width="70%">
+                    <figcaption>
+                        Fig.15 Fluorescence intensity - Wave length diagram <br/>
+                    </figcaption>
+                </figure>
+
+                <table class="table table-bordered">
+                    <caption>
+                        Table 1 Statistics of serial taxol concentration-integration of fluorescence intensity
+                    </caption>
+                    <thead>
+                    <tr>
+                        <th style="text-align: center; ">Taxol concentration(μM)</th>
+                        <th style="text-align: center;">Fluorescence intensity(CPS)</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td align="center">0</td>
+                        <td align="center">31880000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">0.5</td>
+                        <td align="center">33211000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">5</td>
+                        <td align="center">33951000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">25</td>
+                        <td align="center">34267000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">50</td>
+                        <td align="center">35650000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">100</td>
+                        <td align="center">35861000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">250</td>
+                        <td align="center">42479000</td>
+                    </tr>
+                    <tr>
+                        <td align="center">500</td>
+                        <td align="center">51428000</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+                <p>Further visualized experiment was also carried out. As the aggregated tubulins could be centrifuged
+                    in room temperature while the tubulin monomers could not. As enough protein substrates
+                    (α-tubulin-YNE, α-tubulin-YCE and β-tubulin) existed, we centrifuged each experimental group.
+                    Results(Fig.16) showed obvious difference between each group with serial taxol concentration, further
+                    indicating that the taxol concentration can be represented by the tubulin aggregation level.
+                </p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/1/16/T--BNU-China--Results100.jpg" width="70%">
+                    <figcaption>
+                        Fig.16 Pellet from each experimental group with serial taxol concentration
+                        <br/>
+                    </figcaption>
+                </figure>
+
+                <p>Based on the statistics above, any random concentration of taxol could be figured out in the following Polynomial interpolation curve(Fig.17).</p>
+
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/c/cc/T-BNU-China--Polynomial_interpolation.png" width="70%">
+                    <figcaption>
+                        Fig.17 Fluoroscence intensity - Taxol concentration polynomial interpolation curve<br/>
+                    </figcaption>
+                </figure>
+
+                <h2>Results of tublin extraction <i>in vitro</i></h2>
+                <p>After successfully extracting tubulin from porcine brains, we tried to summarize the aggregation
+                    condition in vitro by using electron microscope.</p>
+                <figure class="text-center">
+                    <img src="http://2016.igem.org/wiki/images/3/34/T--BNU-China--Result27.jpg " width="70%">
+                    <figcaption>
+                        Fig.18 Aggregated microtubule treated with 1μM taxol <br/>
+                    </figcaption>
+                </figure>
+
+
+                <p>From pictures taken under the electron microscope(Fig.18), we could see tublin (treated with 1 μM
+                    taxol) in aggregated form obviously, indicating we have achieved the aggregation process <i>in
+                        vitro</i>. However, due to the high concentration of our extracted sample, it was hard to tell
+                    the aggregated length and the quantity of microtubules. Thus we tried to use spectrophotometer to
+                    measure OD<sub>350</sub> of our experimental samples.</p>
+                <h4 style="text-align: center">Table 2        OD<sub>350</sub> of microtubule samples treated with serial
+                    concentration of taxol</h4>
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <th style="text-align: center;vertical-align: middle;" rowspan="2" colspan="2">OD<sub>350</sub>
+                        </th>
+                        <th style="text-align: center" colspan="5">Experiment Group</th>
+                    </tr>
+                    <tr>
+                        <th style="text-align: center">1</th>
+                        <th style="text-align: center">2</th>
+                        <th style="text-align: center">3</th>
+                        <th style="text-align: center">4</th>
+                        <th style="text-align: center">5</th>
+                    </tr>
+                    <tr>
+                        <th style="text-align: center; vertical-align: middle; padding: 0; width: 60px;" rowspan="21">
+                            <div style="font-size: 20px; transform:rotate(-90deg);
+-ms-transform:rotate(-90deg); /* Internet Explorer */
+-moz-transform:rotate(-90deg); /* Firefox */
+-webkit-transform:rotate(-90deg); /* Safari 和 Chrome */
+-o-transform:rotate(-90deg); /* Opera */">Taxol concentration(μM)
+                            </div>
+                        </th>
+                        <td align="center">0</td>
+                        <td align="center">0.095</td>
+                        <td align="center">0.077</td>
+                        <td align="center"></td>
+                        <td align="center">0.025</td>
+                        <td align="center">0.104</td>
+                    </tr>
+                    <tr>
+                        <td align="center">0.001</td>
+                        <td align="center">0.062</td>
+                        <td align="center">0.123</td>
+                        <td align="center">0.119</td>
+                        <td align="center">0.086</td>
+                        <td align="center">0.149</td>
+                    </tr>
+                    <tr>
+                        <td align="center">0.01</td>
+                        <td align="center">0.152</td>
+                        <td align="center">0.138</td>
+                        <td align="center">0.129</td>
+                        <td align="center">0.060</td>
+                        <td align="center">0.081</td>
+                    </tr>
+                    <tr>
+                        <td align="center">0.1</td>
+                        <td align="center">0.096</td>
+                        <td align="center">0.106</td>
+                        <td align="center">0.123</td>
+                        <td align="center">0.082</td>
+                        <td align="center">0.134</td>
+                    </tr>
+                    <tr>
+                        <td align="center">1</td>
+                        <td align="center">0.148</td>
+                        <td align="center">0.140</td>
+                        <td align="center">0.149</td>
+                        <td align="center">0.061</td>
+                        <td align="center">0.092</td>
+                    </tr>
+                    <tr>
+                        <td align="center">2</td>
+                        <td align="center">0.047</td>
+                        <td align="center">0.093</td>
+                        <td align="center">0.108</td>
+                        <td align="center">0.052</td>
+                        <td align="center">0.080</td>
+                    </tr>
+                    <tr>
+                        <td align="center">3</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.068</td>
+                        <td align="center">0.091</td>
+                    </tr>
+                    <tr>
+                        <td align="center">4</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.035</td>
+                        <td align="center">0.050</td>
+                    </tr>
+                    <tr>
+                        <td align="center">5</td>
+                        <td align="center">0.020</td>
+                        <td align="center">0.059</td>
+                        <td align="center">0.140</td>
+                        <td align="center">0.078</td>
+                        <td align="center">0.100</td>
+                    </tr>
+                    <tr>
+                        <td align="center">6</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.079</td>
+                        <td align="center">0.112</td>
+                    </tr>
+                    <tr>
+                        <td align="center">7</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.076</td>
+                        <td align="center">0.076</td>
+                    </tr>
+                    <tr>
+                        <td align="center">8</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.050</td>
+                        <td align="center">0.067</td>
+                    </tr>
+                    <tr>
+                        <td align="center">9</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.079</td>
+                        <td align="center">0.107</td>
+                    </tr>
+                    <tr>
+                        <td align="center">10</td>
+                        <td align="center">0.053</td>
+                        <td align="center">0.111</td>
+                        <td align="center">0.185</td>
+                        <td align="center">0.086</td>
+                        <td align="center">0.100</td>
+                    </tr>
+                    <tr>
+                        <td align="center">12.5</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.077</td>
+                        <td align="center">0.065</td>
+                    </tr>
+                    <tr>
+                        <td align="center">20</td>
+                        <td align="center">0.028</td>
+                        <td align="center">0.099</td>
+                        <td align="center">0.108</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                    </tr>
+                    <tr>
+                        <td align="center">25</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.076</td>
+                        <td align="center">0.097</td>
+                    </tr>
+                    <tr>
+                        <td align="center">30</td>
+                        <td align="center">0.093</td>
+                        <td align="center">0.164</td>
+                        <td align="center">0.154</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                    </tr>
+                    <tr>
+                        <td align="center">50</td>
+                        <td align="center">0.043</td>
+                        <td align="center">0.162</td>
+                        <td align="center">0.096</td>
+                        <td align="center">0.074</td>
+                        <td align="center">0.090</td>
+                    </tr>
+                    <tr>
+                        <td align="center">70</td>
+                        <td align="center">0.113</td>
+                        <td align="center">0.188</td>
+                        <td align="center">0.156</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                    </tr>
+                    <tr>
+                        <td align="center">100</td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center"></td>
+                        <td align="center">0.072</td>
+                        <td align="center">0.088</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+
+                <p>From the results shown in table 2, we found that there was no obvious relationship between OD
+                    statistics and taxol concentration. The reason may be the machine issue. Due to the wave length for
+                    measuring OD is 350nm, which is between the ultraviolet light and visible light, there is a high
+                    requirement for instruments and always leads to a huge deviation. As the high technologic
+                    instruments could not be owned by every laboratory in different areas, our fusion proteins which can
+                    detect the relatively accurate concentration of anti-microtubule drugs will have a broad application
+                    prospect.</p>
+
+
+            </article>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="footer-div">
+            <ul id="footer-ul">
+                <li><a href="http://2016.igem.org/Team:BNU-China">Home</a></li>
+                <li><a href="http://2016.igem.org/Team:BNU-China/Project">Project</a></li>
+                <li><a href="http://2016.igem.org/Team:BNU-China/Model">Model</a></li>
+                <li><a href="http://2016.igem.org/Team:BNU-China/Achievements">Achievements</a></li>
+                <li><a href="http://2016.igem.org/Team:BNU-China/Integrated_Practices">Practices</a></li>
+                <li><a href="http://2016.igem.org/Team:BNU-China/Safety">Safety</a></li>
+                <li><a href="http://2016.igem.org/Team:BNU-China/Team">Team</a></li>
+            </ul>
+            <span>© 2016 BNU</span>
+        </div>
+    </div>
+</div>
+
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.010 seconds
+Real time usage: 0.011 seconds
+Preprocessor visited node count: 54/1000000
+Preprocessor generated node count: 260/1000000
+Post‐expand include size: 458/2097152 bytes
+Template argument size: 7/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2016_igem_org:pcache:idhash:3938-0!*!*!*!*!*!* and timestamp 20161120165118 and revision id 432476
+ -->
+</div>		            <div class="visualClear"></div>
+	            </div>
+		    </div>
+
+        </div>
+
+        <!-- Side Menubar -->
+        <div id="sideMenu">
+            <a href="http://2016.igem.org">
+                <div id="home_logo" >
+                <img src="http://2016.igem.org/wiki/images/b/bf/HQ_menu_logo.jpg">
+                </div>
+            </a>
+
+            <div style="clear:both; height:5px;"></div>
+
+            <div id="menuDisplay"></div>  <!- Menu will be loaded here ->
+        </div>
+
+        <!-- Pop_Why Div is definded here -->
+        <div class="pop_why_cover"></div>
+
+        <div class="pop_why_box" >
+            <div class="pop_close">× </div>
+            <div class="pop_why_content"><h3> Loading ... </h3></div>
+        </div>
+
+    </div>
+</html>
